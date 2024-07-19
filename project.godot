@@ -18,6 +18,30 @@ config/icon="res://icon.svg"
 
 project/assembly_name="Kenney Game Jam"
 
+[editor]
+
+version_control/plugin_name="GitPlugin"
+version_control/autoload_on_startup=true
+
 [filesystem]
 
 import/fbx/enabled=false
+
+[input]
+
+moveForward={
+"deadzone": 0.5,
+"events": []
+}
+mavBackward={
+"deadzone": 0.5,
+"events": []
+}
+moveLeft={
+"deadzone": 0.5,
+"events": []
+}
+moveRight={
+"deadzone": 0.5,
+"events": []
+}
