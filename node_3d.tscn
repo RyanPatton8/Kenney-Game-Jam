@@ -1,4 +1,4 @@
-[gd_scene load_steps=6 format=3 uid="uid://ceiy3k7ffiayp"]
+[gd_scene load_steps=6 format=3 uid="uid://gferncit1imi"]
 
 [ext_resource type="ArrayMesh" uid="uid://dbqlj1i10kns3" path="res://kenney_building-kit/Models/walls/roof-flat-patch-large.obj" id="1_uu1vd"]
 [ext_resource type="PackedScene" uid="uid://jrcqmh7y7xkl" path="res://Scenes/Characters/Player/player.tscn" id="2_gg1ej"]
@@ -32,3 +32,11 @@ mesh = ExtResource("3_o7eaj")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Wheelchair-deluxe/StaticBody3D"]
 shape = SubResource("ConcavePolygonShape3D_m760v")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.586, 4.80729, -8.06205)
+light_color = Color(0.898039, 0.921569, 0.666667, 1)
+light_energy = 5.0
+shadow_enabled = true
+shadow_blur = 2.111
+distance_fade_enabled = true
