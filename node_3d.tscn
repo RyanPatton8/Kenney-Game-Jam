@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://bpy10tlaq1eqo"]
+
+[ext_resource type="ArrayMesh" uid="uid://dbqlj1i10kns3" path="res://kenney_building-kit/Models/OBJ format/roof-flat-patch-large.obj" id="1_uu1vd"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Roof-flat-patch-large" type="MeshInstance3D" parent="."]
+transform = Transform3D(50, 0, 0, 0, 50, 0, 0, 0, 50, 0.712556, 0, -0.237351)
+mesh = ExtResource("1_uu1vd")
