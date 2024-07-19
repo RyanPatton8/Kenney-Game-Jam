@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ch5nprnv5k7sp"
+path="res://.godot/imported/stairs-closed-short.obj-b8476d57291f5bbd71039bc692cee3ab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stairs-closed-short.obj-b8476d57291f5bbd71039bc692cee3ab.mesh"]
+
+source_file="res://kenney_building-kit/Models/walls/stairs-closed-short.obj"
+dest_files=["res://.godot/imported/stairs-closed-short.obj-b8476d57291f5bbd71039bc692cee3ab.mesh", "res://.godot/imported/stairs-closed-short.obj-b8476d57291f5bbd71039bc692cee3ab.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

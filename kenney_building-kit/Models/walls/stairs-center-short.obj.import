@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://x8wslfafstn6"
+path="res://.godot/imported/stairs-center-short.obj-e4047daad8dbecd221ae5ff1dfbf40dc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stairs-center-short.obj-e4047daad8dbecd221ae5ff1dfbf40dc.mesh"]
+
+source_file="res://kenney_building-kit/Models/walls/stairs-center-short.obj"
+dest_files=["res://.godot/imported/stairs-center-short.obj-e4047daad8dbecd221ae5ff1dfbf40dc.mesh", "res://.godot/imported/stairs-center-short.obj-e4047daad8dbecd221ae5ff1dfbf40dc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

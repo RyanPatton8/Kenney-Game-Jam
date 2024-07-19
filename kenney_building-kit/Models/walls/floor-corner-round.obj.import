@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drcf6k6xe4cei"
+path="res://.godot/imported/floor-corner-round.obj-5128a6837027ac9d8d6491a7efde724b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/floor-corner-round.obj-5128a6837027ac9d8d6491a7efde724b.mesh"]
+
+source_file="res://kenney_building-kit/Models/walls/floor-corner-round.obj"
+dest_files=["res://.godot/imported/floor-corner-round.obj-5128a6837027ac9d8d6491a7efde724b.mesh", "res://.godot/imported/floor-corner-round.obj-5128a6837027ac9d8d6491a7efde724b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
