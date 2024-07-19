@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b4f3vdpm6wmli"
+path="res://.godot/imported/barricade-window-a.obj-f40bad3d3855a061ee802ce991710a3a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/barricade-window-a.obj-f40bad3d3855a061ee802ce991710a3a.mesh"]
+
+source_file="res://Assets/kenney_building-kit/Models/OBJ format/barricade-window-a.obj"
+dest_files=["res://.godot/imported/barricade-window-a.obj-f40bad3d3855a061ee802ce991710a3a.mesh", "res://.godot/imported/barricade-window-a.obj-f40bad3d3855a061ee802ce991710a3a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cas6yk5hs1bgm"
+path="res://.godot/imported/wall-window-square.obj-50758734e0f883e313d9a9427121f000.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall-window-square.obj-50758734e0f883e313d9a9427121f000.mesh"]
+
+source_file="res://Assets/kenney_building-kit/Models/OBJ format/wall-window-square.obj"
+dest_files=["res://.godot/imported/wall-window-square.obj-50758734e0f883e313d9a9427121f000.mesh", "res://.godot/imported/wall-window-square.obj-50758734e0f883e313d9a9427121f000.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

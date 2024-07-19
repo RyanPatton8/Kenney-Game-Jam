@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ca5gfxwlroml"
+path="res://.godot/imported/plating.obj-a80142a204ad8e0a4026788c53f01f16.mesh"
+
+[deps]
+
+files=["res://.godot/imported/plating.obj-a80142a204ad8e0a4026788c53f01f16.mesh"]
+
+source_file="res://Assets/kenney_building-kit/Models/OBJ format/plating.obj"
+dest_files=["res://.godot/imported/plating.obj-a80142a204ad8e0a4026788c53f01f16.mesh", "res://.godot/imported/plating.obj-a80142a204ad8e0a4026788c53f01f16.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
