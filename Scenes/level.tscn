@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+[gd_scene load_steps=3 format=3 uid="uid://cxas745trv3wg"]
+
+[ext_resource type="PackedScene" uid="uid://colt05j7s8top" path="res://Assets/kenney_building-kit/Models/GLB format/floor.glb" id="1_ul4wq"]
+[ext_resource type="PackedScene" uid="uid://dtv7qoobft5qm" path="res://Assets/kenney_building-kit/Models/GLB format/barricade-doorway-a.glb" id="2_hjdre"]
+
+[node name="Level" type="Node3D"]
+
+[node name="floor2" parent="." instance=ExtResource("1_ul4wq")]
+transform = Transform3D(10, 0, 0, 0, 3, 0, 0, 0, 10, -0.0555892, 0, 0.02509)
+
+[node name="barricade-doorway-a2" parent="." instance=ExtResource("2_hjdre")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.88144, 0.82084, -7.84375)
+=======
+[gd_scene format=3 uid="uid://cxas745trv3wg"]
+
+[node name="Level" type="Node3D"]
+>>>>>>> parent of 4bf3ee0 (Retooled File Hierarchy)
