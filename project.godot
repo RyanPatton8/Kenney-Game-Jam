@@ -11,12 +11,6 @@ config_version=5
 [application]
 
 config/name="Kenney Game Jam"
-config/features=PackedStringArray("4.2", "C#", "Forward Plus")
-config/icon="res://icon.svg"
-
-[dotnet]
-
-project/assembly_name="Kenney Game Jam"
 
 [editor]
 
