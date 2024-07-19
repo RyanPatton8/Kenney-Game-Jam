@@ -11,6 +11,11 @@ config_version=5
 [application]
 
 config/name="Kenney Game Jam"
+config/features=PackedStringArray("4.2")
+
+[dotnet]
+
+project/assembly_name="Kenney Game Jam"
 
 [editor]
 
