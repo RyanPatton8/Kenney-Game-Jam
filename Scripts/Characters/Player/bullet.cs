@@ -26,6 +26,6 @@ public partial class bullet : RigidBody3D
 
 		this.GlobalTransform = new Transform3D(GlobalBasis, GlobalPosition);
 		CollisionLayer = 0;
-		CollisionMask = 0;
+        CollisionMask = 0;
 	}
 }
