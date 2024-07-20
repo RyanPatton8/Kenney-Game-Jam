@@ -18,11 +18,11 @@ public partial class bullet : RigidBody3D
 	public void Stick(Node otherBody)
 	{
 		Vector3 GlobalPosition = this.GlobalTransform.Origin;
-        Basis GlobalBasis = this.GlobalTransform.Basis;
+		Basis GlobalBasis = this.GlobalTransform.Basis;
 
 		this.Freeze = true;
 		this.GetParent().RemoveChild(this);
-        otherBody.AddChild(this);
+		otherBody.AddChild(this);
 
 		this.GlobalTransform = new Transform3D(GlobalBasis, GlobalPosition);
 	}
