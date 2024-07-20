@@ -1,3 +1,7 @@
+Timer
+CollisionShape3D
+Area3D
+Node
 Label
 HBoxContainer
 VBoxContainer
@@ -5,10 +9,6 @@ MarginContainer
 Control
 CanvasLayer
 AnimationPlayer
-Node
 Button
 Node3D
-Timer
-CollisionShape3D
 MeshInstance3D
-CharacterBody3D

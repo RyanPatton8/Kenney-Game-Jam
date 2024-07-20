@@ -23,11 +23,16 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 
 	[Export] public AnimationPlayer animPlayer {get; private set;}
 
+	[Export] public Area3D hurtBox {get; private set;}
+	[Export] public Timer takeDamageTimer {get; private set;}
+
 	private int maxBulletCount = 10;
 
-	private int bulletCount = 0;
+	public int bulletCount = 0;
 	private bool canShoot = true;
 	private bool canShock = true;
+
+	public int health = 100;
 
 	// Get the gravity from the project settings to be synced with RigidBody nodes.
 	public float gravity = ProjectSettings.GetSetting("physics/3d/default_gravity").AsSingle();
@@ -37,6 +42,9 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 		attackDuration.Timeout += StopAttack;
 		shootCoolDown.Timeout += AllowShoot;
 		shockCoolDown.Timeout += AllowShock;
+		hurtBox.AreaEntered += StartTakeDamage;
+		takeDamageTimer.Timeout += TakeDamage;
+		hurtBox.AreaExited += StopTakeDamage;
 		Input.MouseMode = Input.MouseModeEnum.Captured;
 	}
 
@@ -175,5 +183,25 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	{
 		canShock = true;
 		canShoot = true;
+	}
+
+	private void StartTakeDamage(Area3D area)
+	{
+		takeDamageTimer.OneShot = false;
+		takeDamageTimer.Start();
+	}
+
+	private void TakeDamage()
+	{
+		health -= 5;
+		if (health <= 0){
+			Input.MouseMode = Input.MouseModeEnum.Visible;
+			GetTree().ChangeSceneToFile("res://Scenes/Deathscreen/death_screen.tscn");
+		}
+	}
+
+	private void StopTakeDamage(Area3D area)
+	{
+		takeDamageTimer.OneShot = true;
 	}
 }

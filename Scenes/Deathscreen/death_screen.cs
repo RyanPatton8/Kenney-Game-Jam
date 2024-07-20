@@ -16,6 +16,8 @@ public partial class death_screen : Control
 
 	private void ReturnToMenu()
 	{
+		GameManager gameManager = GameManager.Instance;
+		gameManager.ResetScore();
 		GetTree().ChangeSceneToFile("res://Scenes/Mainmenu/Menu.tscn");
 	}
 }

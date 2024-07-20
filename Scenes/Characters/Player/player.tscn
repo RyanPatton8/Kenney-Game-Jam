@@ -1,14 +1,25 @@
-[gd_scene load_steps=11 format=3 uid="uid://jrcqmh7y7xkl"]
+[gd_scene load_steps=12 format=3 uid="uid://jrcqmh7y7xkl"]
 
 [ext_resource type="Script" path="res://Scripts/Characters/Player/CharacterBody3D.cs" id="1_8oxv8"]
 [ext_resource type="PackedScene" uid="uid://bwpa2woxsc7xi" path="res://Scenes/Characters/Player/bullet.tscn" id="2_3w4aa"]
 [ext_resource type="PackedScene" uid="uid://d00k4i4jcylxc" path="res://Scenes/Characters/Player/lightning.tscn" id="3_vgaty"]
 [ext_resource type="ArrayMesh" uid="uid://c0pv61vs4wo76" path="res://kenney_building-kit/Models/guns/rocketlauncherModernRotating.obj" id="4_kcx2u"]
-[ext_resource type="PackedScene" uid="uid://jxnl5tvlild3" path="res://Scenes/Characters/Player/ui.tscn" id="5_0h62m"]
+[ext_resource type="PackedScene" uid="uid://bghfvxdeuaots" path="res://Scenes/Characters/Player/ui.tscn" id="5_0h62m"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_0dpf0"]
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_t8vw4"]
+
+[sub_resource type="Animation" id="Animation_1wdw8"]
+resource_name = "Idle"
+step = 1.0
+tracks/0/type = "position_3d"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Node3D/Camera3D/RocketlauncherModernRotating")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = PackedFloat32Array(0, 1, 0, -0.499, -0.338924)
 
 [sub_resource type="Animation" id="Animation_hno1i"]
 resource_name = "Walk"
@@ -22,24 +33,15 @@ tracks/0/interp = 1
 tracks/0/loop_wrap = true
 tracks/0/keys = PackedFloat32Array(0, 1, 0, -0.499, -0.338924, 0.2, 1, 0, -0.473076, -0.338924, 0.4, 1, 0, -0.499, -0.338924)
 
-[sub_resource type="Animation" id="Animation_1wdw8"]
-resource_name = "Idle"
-step = 1.0
-tracks/0/type = "position_3d"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Node3D/Camera3D/RocketlauncherModernRotating")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = PackedFloat32Array(0, 1, 0, -0.499, -0.338924)
-
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_k6poi"]
 _data = {
 "Idle": SubResource("Animation_1wdw8"),
 "Walk": SubResource("Animation_hno1i")
 }
 
-[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("neck", "camera", "attackPos", "attackDuration", "shootCoolDown", "shockCoolDown", "animPlayer") groups=["player"]]
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_d0px0"]
+
+[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("neck", "camera", "attackPos", "attackDuration", "shootCoolDown", "shockCoolDown", "animPlayer", "hurtBox", "takeDamageTimer") groups=["player"]]
 script = ExtResource("1_8oxv8")
 MouseSensitivity = 0.001
 neck = NodePath("Node3D")
@@ -51,6 +53,8 @@ attackDuration = NodePath("AttackDuration")
 shootCoolDown = NodePath("ShootCoolDown")
 shockCoolDown = NodePath("ShockCoolDown")
 animPlayer = NodePath("AnimationPlayer")
+hurtBox = NodePath("HurtBox")
+takeDamageTimer = NodePath("TakeDamageTimer")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
 shape = SubResource("CapsuleShape3D_0dpf0")
@@ -72,7 +76,8 @@ transform = Transform3D(-10, 0, -8.74228e-07, 0, 10, 0, 8.74228e-07, 0, -10, 0, 
 mesh = ExtResource("4_kcx2u")
 skeleton = NodePath("../../..")
 
-[node name="UI" parent="Node3D/Camera3D" instance=ExtResource("5_0h62m")]
+[node name="UI" parent="Node3D/Camera3D" node_paths=PackedStringArray("player") instance=ExtResource("5_0h62m")]
+player = NodePath("../../..")
 
 [node name="AttackDuration" type="Timer" parent="."]
 wait_time = 0.5
@@ -89,3 +94,14 @@ one_shot = true
 libraries = {
 "": SubResource("AnimationLibrary_k6poi")
 }
+
+[node name="HurtBox" type="Area3D" parent="."]
+collision_layer = 0
+collision_mask = 4
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="HurtBox"]
+shape = SubResource("CapsuleShape3D_d0px0")
+
+[node name="TakeDamageTimer" type="Timer" parent="."]
+wait_time = 0.3
+one_shot = true
