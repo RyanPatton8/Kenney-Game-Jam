@@ -8,7 +8,7 @@
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_t8vw4"]
 
-[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("neck", "camera", "attackPos")]
+[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("neck", "camera", "attackPos", "attackDuration", "shootCoolDown", "shockCoolDown") groups=["player"]]
 script = ExtResource("1_8oxv8")
 MouseSensitivity = 0.001
 neck = NodePath("Node3D")
@@ -16,6 +16,9 @@ camera = NodePath("Node3D/Camera3D")
 attackPos = NodePath("Node3D/Camera3D/AttackPosition")
 bullet = ExtResource("2_3w4aa")
 lightning = ExtResource("3_vgaty")
+attackDuration = NodePath("AttackDuration")
+shootCoolDown = NodePath("ShootCoolDown")
+shockCoolDown = NodePath("ShockCoolDown")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
 shape = SubResource("CapsuleShape3D_0dpf0")
@@ -33,6 +36,12 @@ current = true
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.333059, -1.20484)
 
 [node name="AttackDuration" type="Timer" parent="."]
+wait_time = 0.5
 one_shot = true
 
-[node name="BulletPouch" type="Node" parent="."]
+[node name="ShootCoolDown" type="Timer" parent="."]
+wait_time = 0.3
+one_shot = true
+
+[node name="ShockCoolDown" type="Timer" parent="."]
+one_shot = true

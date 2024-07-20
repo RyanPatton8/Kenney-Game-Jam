@@ -13,15 +13,16 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	[Export] public float MoveSpeed = 5.0f;
 	[Export] public Node3D neck {get; private set;}
 	[Export] public Camera3D camera  {get; private set;}
-
 	[Export] public Marker3D attackPos {get; private set;}
-	[Export] public Node bulletPouch {get; private set;}
-
 	[Export] public PackedScene bullet {get; private set;}
 	[Export] public PackedScene lightning {get; private set;}
 
 	[Export] public Timer attackDuration {get; private set;}
+	[Export] public Timer shootCoolDown {get; private set;}
+	[Export] public Timer shockCoolDown {get; private set;}
 
+	private bool canShoot = true;
+	private bool canShock = true;
 
 	// Get the gravity from the project settings to be synced with RigidBody nodes.
 	public float gravity = ProjectSettings.GetSetting("physics/3d/default_gravity").AsSingle();
@@ -29,6 +30,8 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	public override void _Ready()
 	{
 		attackDuration.Timeout += StopAttack;
+		shootCoolDown.Timeout += AllowShoot;
+		shockCoolDown.Timeout += AllowShock;
 		Input.MouseMode = Input.MouseModeEnum.Captured;
 	}
 
@@ -85,13 +88,18 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 
 	public void HandleAttacks()
 	{
-		if (Input.IsActionJustPressed("fire"))
+		if (Input.IsActionJustPressed("fire") && canShoot)
 		{
 			Fire();
+			canShoot = false;
+			shootCoolDown.Start();
 		}
-		else if (Input.IsActionJustPressed("shock"))
+		else if (Input.IsActionJustPressed("shock") && canShock)
 		{
 			Shock();
+			canShock = false;
+			canShoot = false;
+			shockCoolDown.Start();
 		}
 	}
 
@@ -136,7 +144,6 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 
 	private void StopAttack()
 	{
-		GD.Print("Deleting");
 		foreach(RigidBody3D bullet in bullets)
 		{
 			bullet.QueueFree();	
@@ -148,5 +155,16 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 		
 		bullets.Clear();
 		lightningBolts.Clear();
+	}
+
+	private void AllowShoot()
+	{
+		canShoot = true;
+	}
+
+	private void AllowShock()
+	{
+		canShock = true;
+		canShoot = true;
 	}
 }
