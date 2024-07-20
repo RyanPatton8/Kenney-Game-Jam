@@ -8,6 +8,9 @@ export_presets.cfg
 # File system cache
 *.godot/tmp/
 *.godot/imported/
+*.godot\editor\script_editor_cache.cfg
+*.godot\editor\project_metadata.cfg
+*.godot\editor\script_editor_cache.cfg
 
 # Godot C# build files
 .mono/
@@ -33,6 +36,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+
+
 
 # macOS
 .DS_Store
