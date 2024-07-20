@@ -1,6 +1,6 @@
-[gd_scene load_steps=43 format=3 uid="uid://chleftgausdxe"]
+[gd_scene load_steps=43 format=3 uid="uid://lm7oshbwfve4"]
 
-[ext_resource type="Texture2D" uid="uid://cbu652m3226x" path="res://kenney_building-kit/Models/charactermodels/GLB format/Textures/colormap.png" id="1_jo6bs"]
+[ext_resource type="Texture2D" path="res://kenney_building-kit/Models/charactermodels/GLB format/Textures/colormap.png" id="1_jo6bs"]
 [ext_resource type="Script" path="res://Scenes/Characters/enemy/enemy2.gd" id="1_kqyn3"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_4ii5y"]
@@ -2791,7 +2791,7 @@ disabled = true
 [node name="Physical Bone torso" type="PhysicalBone3D" parent="character-male-b/Skeleton3D"]
 transform = Transform3D(-0.114364, -0.737738, -0.66533, 0, 0.669724, -0.74261, 0.993439, -0.0849275, -0.076592, 0.0499484, 0.232, -0.023)
 joint_type = 1
-joint_offset = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.51574e-08, 0.0750731)
+joint_offset = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.65661e-10, 3.14321e-08, 0.0750731)
 body_offset = Transform3D(-0.114364, -0.737738, -0.66533, 0, 0.669724, -0.74261, 0.993439, -0.0849275, -0.076592, 0.0499484, 0.05575, 0.00575)
 bone_name = "torso"
 joint_constraints/bias = 0.3
