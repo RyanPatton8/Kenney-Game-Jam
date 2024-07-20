@@ -1,8 +1,12 @@
+Label
+HBoxContainer
+VBoxContainer
+MarginContainer
+Control
+CanvasLayer
 AnimationPlayer
 Node
 Button
-Label
-VBoxContainer
 Node3D
 Timer
 CollisionShape3D
