@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bdag0lxpy4dcf"
+path="res://.godot/imported/chest.obj-8e663f9a0b70249f7279dacda7e67b24.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chest.obj-8e663f9a0b70249f7279dacda7e67b24.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/chest.obj"
+dest_files=["res://.godot/imported/chest.obj-8e663f9a0b70249f7279dacda7e67b24.mesh", "res://.godot/imported/chest.obj-8e663f9a0b70249f7279dacda7e67b24.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

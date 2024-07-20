@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://xip8fbk7cae"
+path="res://.godot/imported/block-snow-large.obj-1c21f1e6074153f43f17c2aeafa1e4ee.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-snow-large.obj-1c21f1e6074153f43f17c2aeafa1e4ee.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/block-snow-large.obj"
+dest_files=["res://.godot/imported/block-snow-large.obj-1c21f1e6074153f43f17c2aeafa1e4ee.mesh", "res://.godot/imported/block-snow-large.obj-1c21f1e6074153f43f17c2aeafa1e4ee.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

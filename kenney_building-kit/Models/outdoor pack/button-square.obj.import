@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bx5e5ksadjxn1"
+path="res://.godot/imported/button-square.obj-8be95819567e7b4927b32da66df1d97a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/button-square.obj-8be95819567e7b4927b32da66df1d97a.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/button-square.obj"
+dest_files=["res://.godot/imported/button-square.obj-8be95819567e7b4927b32da66df1d97a.mesh", "res://.godot/imported/button-square.obj-8be95819567e7b4927b32da66df1d97a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

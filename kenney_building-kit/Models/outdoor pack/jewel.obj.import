@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqw3f173n4c53"
+path="res://.godot/imported/jewel.obj-3d4836db8d691c8a0ca7e8b1df041a7a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/jewel.obj-3d4836db8d691c8a0ca7e8b1df041a7a.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/jewel.obj"
+dest_files=["res://.godot/imported/jewel.obj-3d4836db8d691c8a0ca7e8b1df041a7a.mesh", "res://.godot/imported/jewel.obj-3d4836db8d691c8a0ca7e8b1df041a7a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,6 +1,6 @@
-[gd_scene load_steps=32 format=3 uid="uid://cglqxb2nfytnh"]
+[gd_scene load_steps=31 format=3 uid="uid://cglqxb2nfytnh"]
 
-[ext_resource type="PackedScene" uid="uid://mwf5o8u5f6p" path="res://Scenes/Characters/enemy/enemy2.tscn" id="1_8x86y"]
+[ext_resource type="PackedScene" uid="uid://cjj6hkugckq48" path="res://Scenes/Characters/enemy/enemy2.tscn" id="1_8x86y"]
 [ext_resource type="ArrayMesh" uid="uid://dbqlj1i10kns3" path="res://kenney_building-kit/Models/walls/roof-flat-patch-large.obj" id="1_uu1vd"]
 [ext_resource type="PackedScene" uid="uid://jrcqmh7y7xkl" path="res://Scenes/Characters/Player/player.tscn" id="2_gg1ej"]
 [ext_resource type="ArrayMesh" uid="uid://b3dpa8a8mw15k" path="res://kenney_building-kit/Models/charactermodels/wheelchair-deluxe.obj" id="3_o7eaj"]
@@ -9,15 +9,14 @@
 [ext_resource type="ArrayMesh" uid="uid://dnnulupc2gpng" path="res://kenney_building-kit/Models/space/container-flat.obj" id="8_luuso"]
 [ext_resource type="ArrayMesh" uid="uid://dqhb68fcxjvpn" path="res://kenney_building-kit/Models/space/container.obj" id="9_u68so"]
 [ext_resource type="ArrayMesh" uid="uid://bnbvlfxyya4i4" path="res://kenney_building-kit/Models/space/stairs-small-edges.obj" id="11_yafpm"]
-[ext_resource type="ArrayMesh" uid="uid://dbcxq28nt6qlc" path="res://kenney_building-kit/Models/space/structure-barrier-high.obj" id="12_wwt6p"]
-[ext_resource type="ArrayMesh" uid="uid://6rjc6mliw7go" path="res://kenney_building-kit/Models/space/rail-narrow.obj" id="13_hf5gb"]
+[ext_resource type="ArrayMesh" uid="uid://cxj5gcmliidyr" path="res://kenney_building-kit/Models/outdoor pack/crate-strong.obj" id="13_uwhr5"]
 [ext_resource type="ArrayMesh" uid="uid://ou22uuitbdco" path="res://kenney_building-kit/Models/space/wall.obj" id="14_5o3l0"]
-[ext_resource type="ArrayMesh" uid="uid://cbk8j3b2kcioq" path="res://kenney_building-kit/Models/space/rail.obj" id="14_auhq8"]
 [ext_resource type="ArrayMesh" uid="uid://cvlf8t6l7j1yd" path="res://kenney_building-kit/Models/space/wall-corner.obj" id="14_qcu8v"]
 [ext_resource type="ArrayMesh" uid="uid://cip85rjvtyvf7" path="res://kenney_building-kit/Models/space/wall-door.obj" id="15_0wspt"]
 [ext_resource type="ArrayMesh" uid="uid://dx0vx5uajcyt4" path="res://kenney_building-kit/Models/space/rocks.obj" id="16_aytfi"]
 [ext_resource type="ArrayMesh" uid="uid://cnotdw4ic13me" path="res://kenney_building-kit/Models/space/pipe.obj" id="17_o4bwt"]
 [ext_resource type="ArrayMesh" uid="uid://di6ppvv0e52bw" path="res://kenney_building-kit/Models/space/pipe-ring.obj" id="18_vn0xp"]
+[ext_resource type="ArrayMesh" uid="uid://dqjblbqecln05" path="res://kenney_building-kit/Models/outdoor pack/stones.obj" id="18_x7fkg"]
 [ext_resource type="ArrayMesh" uid="uid://cv33fatecwtfg" path="res://kenney_building-kit/Models/space/pipe-bend.obj" id="19_5jlm1"]
 
 [sub_resource type="ConcavePolygonShape3D" id="ConcavePolygonShape3D_hu315"]
@@ -71,7 +70,7 @@ mesh = ExtResource("1_uu1vd")
 shape = SubResource("ConcavePolygonShape3D_hu315")
 
 [node name="Player" parent="." instance=ExtResource("2_gg1ej")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 5.69585, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.08165e-12, 3.5, 2.08165e-12)
 
 [node name="Wheelchair-deluxe" type="MeshInstance3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.345007, 10.6512, 0.88572)
@@ -184,24 +183,9 @@ skeleton = NodePath("../../../..")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="buildingnode/substructure1/barrelnode/Container-flat/StaticBody3D"]
 shape = SubResource("ConcavePolygonShape3D_wf311")
 
-[node name="Rail-narrow" type="MeshInstance3D" parent="buildingnode/substructure1"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.16384, 2.5, -4.0403)
-mesh = ExtResource("13_hf5gb")
-skeleton = NodePath("../../..")
-
-[node name="Rail" type="MeshInstance3D" parent="buildingnode/substructure1"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.15313, 2.5, -4.96713)
-mesh = ExtResource("14_auhq8")
-skeleton = NodePath("../../..")
-
 [node name="Stairs-small-edges" type="MeshInstance3D" parent="buildingnode/substructure1"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.2123, 2.5, -8.265)
 mesh = ExtResource("11_yafpm")
-skeleton = NodePath("../../..")
-
-[node name="Structure-barrier-high" type="MeshInstance3D" parent="buildingnode/substructure1"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -13.2983, 2.5, -4.68342)
-mesh = ExtResource("12_wwt6p")
 skeleton = NodePath("../../..")
 
 [node name="Wall" type="MeshInstance3D" parent="buildingnode/substructure1"]
@@ -264,6 +248,11 @@ skeleton = NodePath("../../..")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="buildingnode/substructure1/Wall-corner2/StaticBody3D"]
 shape = SubResource("ConcavePolygonShape3D_yn3up")
 
+[node name="Crate-strong" type="MeshInstance3D" parent="buildingnode/substructure1"]
+transform = Transform3D(1.34819, -2.40884e-16, 0.657557, 5.2318e-16, 1.5, -5.2318e-16, -0.657557, 6.99578e-16, 1.34819, -11.0611, 2.5, -4.31697)
+mesh = ExtResource("13_uwhr5")
+skeleton = NodePath("../../..")
+
 [node name="pipe" type="Node3D" parent="."]
 
 [node name="Pipe-bend" type="MeshInstance3D" parent="pipe"]
@@ -292,3 +281,7 @@ skeleton = NodePath("../..")
 transform = Transform3D(0.16383, -1.71307e-17, 0.114715, 6.97574e-17, 0.2, -6.97574e-17, -0.114715, 9.71531e-17, 0.16383, -10.3032, 2.5, -5.42874)
 mesh = ExtResource("16_aytfi")
 skeleton = NodePath("../..")
+
+[node name="Stones" type="MeshInstance3D" parent="."]
+transform = Transform3D(2, 0, 0, 0, 1, 0, 0, 0, 2, -8.59245, 2.5, 0.867992)
+mesh = ExtResource("18_x7fkg")

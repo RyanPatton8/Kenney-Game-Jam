@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dycgvj8tl8d8w"
+path="res://.godot/imported/structure-tall.obj-720be9d350db29e2b7e64ac7c05317ab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/structure-tall.obj-720be9d350db29e2b7e64ac7c05317ab.mesh"]
+
+source_file="res://kenney_building-kit/Models/future/structure-tall.obj"
+dest_files=["res://.godot/imported/structure-tall.obj-720be9d350db29e2b7e64ac7c05317ab.mesh", "res://.godot/imported/structure-tall.obj-720be9d350db29e2b7e64ac7c05317ab.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

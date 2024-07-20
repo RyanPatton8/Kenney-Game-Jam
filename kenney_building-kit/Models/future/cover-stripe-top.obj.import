@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bvwjltyjjmoy"
+path="res://.godot/imported/cover-stripe-top.obj-5cc0181238b06e776763a7c89116a5cf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cover-stripe-top.obj-5cc0181238b06e776763a7c89116a5cf.mesh"]
+
+source_file="res://kenney_building-kit/Models/future/cover-stripe-top.obj"
+dest_files=["res://.godot/imported/cover-stripe-top.obj-5cc0181238b06e776763a7c89116a5cf.mesh", "res://.godot/imported/cover-stripe-top.obj-5cc0181238b06e776763a7c89116a5cf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
