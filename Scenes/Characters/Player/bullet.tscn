@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://bwpa2woxsc7xi"]
+
+[ext_resource type="Script" path="res://Scripts/Characters/Player/bullet.cs" id="1_numc6"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_xgr73"]
+
+[sub_resource type="SphereMesh" id="SphereMesh_2s3pc"]
+
+[node name="Bullet" type="RigidBody3D"]
+max_contacts_reported = 1
+contact_monitor = true
+script = ExtResource("1_numc6")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("SphereShape3D_xgr73")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("SphereMesh_2s3pc")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
