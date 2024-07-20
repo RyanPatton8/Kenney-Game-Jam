@@ -1,9 +1,11 @@
+AnimationTree
+NavigationAgent3D
+CollisionShape3D
+CharacterBody3D
 Node
 Button
 Label
 VBoxContainer
 Node3D
 Timer
-CollisionShape3D
 MeshInstance3D
-CharacterBody3D
