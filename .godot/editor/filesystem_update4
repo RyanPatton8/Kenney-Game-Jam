@@ -1,0 +1,6 @@
+res://Scenes/Mainmenu/Menu.tscn
+res://Scenes/Characters/enemy/enemy2.cs
+res://Scripts/Characters/Dummy.cs
+res://Scripts/Characters/Player/bullet.cs
+res://Scripts/Characters/Player/CharacterBody3D.cs
+res://Scripts/Characters/Player/lightningArea.cs
