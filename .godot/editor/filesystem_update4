@@ -5,8 +5,8 @@ res://Scenes/Characters/Player/player.tscn
 res://Scenes/Characters/Player/bullet.tscn
 res://Scenes/Deathscreen/death_screen.tscn
 res://Scenes/Deathscreen/death_screen.cs
-res://Scripts/GameManager.cs
-res://Scripts/Characters/Player/bullet.cs
 res://Scripts/Characters/Player/CharacterBody3D.cs
 res://Scripts/Characters/Dummy.cs
+res://Scripts/Characters/Player/bullet.cs
 res://Scripts/Characters/Player/lightningArea.cs
+res://Scripts/GameManager.cs
