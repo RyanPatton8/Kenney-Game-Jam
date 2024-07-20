@@ -23,3 +23,7 @@ func _process(delta):
 	
 	move_and_slide()
 	
+
+
+func _on_navigation_agent_3d_target_reached():
+	print ("in range")
