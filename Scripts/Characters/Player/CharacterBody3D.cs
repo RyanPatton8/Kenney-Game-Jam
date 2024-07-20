@@ -21,6 +21,8 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	[Export] public Timer shootCoolDown {get; private set;}
 	[Export] public Timer shockCoolDown {get; private set;}
 
+	[Export] public AnimationPlayer animPlayer {get; private set;}
+
 	private int maxBulletCount = 10;
 
 	private int bulletCount = 0;
@@ -65,12 +67,14 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 			velocity.X = direction.X * Speed;
 			velocity.Z = direction.Z * Speed;
 			camera.Fov = Mathf.Lerp(camera.Fov, 85, 5 * (float)delta);
+			animPlayer.Play("Walk");
 		}
 		else
 		{
 			velocity.X = Mathf.MoveToward(Velocity.X, 0, Speed);
 			velocity.Z = Mathf.MoveToward(Velocity.Z, 0, Speed);
 			camera.Fov = Mathf.Lerp(camera.Fov, 75, 5 * (float)delta);
+			animPlayer.Play("Idle");
 		}
 
 		Velocity = velocity;
