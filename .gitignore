@@ -1,2 +1,63 @@
-# Godot 4+ specific ignores
-.godot/
+# Godot-specific ignores
+import-*.cfg
+*.import
+
+# Exported projects
+export_presets.cfg
+
+# File system cache
+*.godot/tmp/
+*.godot/imported/
+
+# Godot C# build files
+.mono/
+mono/
+data_*
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+.mono/metadata/
+.mono/assemblies/
+.mono/temp/
+
+# OS-specific ignores
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+._*.csv
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.apdisk
+
+# Linux
+*~
+
+# Godot executable files
+*.exe
+*.dll
+*.dylib
+*.so
+*.a
+*.lib
+
+# Godot temporary files
+*.tmp
