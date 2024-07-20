@@ -1,4 +1,4 @@
-[gd_scene load_steps=13 format=3 uid="uid://txd52cdt3fhc"]
+[gd_scene load_steps=13 format=3 uid="uid://cglqxb2nfytnh"]
 
 [ext_resource type="PackedScene" uid="uid://mwf5o8u5f6p" path="res://Scenes/Characters/enemy/enemy2.tscn" id="1_8x86y"]
 [ext_resource type="ArrayMesh" uid="uid://dbqlj1i10kns3" path="res://kenney_building-kit/Models/walls/roof-flat-patch-large.obj" id="1_uu1vd"]
@@ -59,7 +59,7 @@ mesh = ExtResource("3_374t1")
 skeleton = NodePath("../..")
 
 [node name="Wall-corner" type="MeshInstance3D" parent="buildingnode"]
-transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 15, 2.5, 14.72)
+transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, 15, 2.5, 15)
 mesh = ExtResource("4_mjyp3")
 skeleton = NodePath("../..")
 
@@ -89,7 +89,7 @@ skeleton = NodePath("../..")
 shape = SubResource("ConcavePolygonShape3D_hu315")
 
 [node name="Wall-corner2" type="MeshInstance3D" parent="buildingnode"]
-transform = Transform3D(-0.0097542, -0.0164751, -9.99998, -0.00143004, 9.99999, -0.0164737, 10, 0.00141392, -0.00975655, -5, 2.5, 14.72)
+transform = Transform3D(-0.0097542, -0.0164751, -9.99998, -0.00143004, 9.99999, -0.0164737, 10, 0.00141392, -0.00975655, -5, 2.5, 15)
 mesh = ExtResource("4_mjyp3")
 skeleton = NodePath("../..")
 
@@ -109,7 +109,7 @@ skeleton = NodePath("../..")
 shape = SubResource("ConcavePolygonShape3D_dvvd5")
 
 [node name="Wall-corner4" type="MeshInstance3D" parent="buildingnode"]
-transform = Transform3D(-10, -1.52581e-09, -8.74226e-07, 3.48786e-15, 9.99998, -0.0174533, 8.74228e-07, -0.0174533, -9.99998, -5, 2.59547, -5)
+transform = Transform3D(-10, -1.52581e-09, -8.74226e-07, 3.48786e-15, 9.99998, -0.0174533, 8.74228e-07, -0.0174533, -9.99998, -5, 2.5, -5)
 mesh = ExtResource("4_mjyp3")
 skeleton = NodePath("../..")
 
