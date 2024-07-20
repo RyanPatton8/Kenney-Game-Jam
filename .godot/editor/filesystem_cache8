@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1721493195
+::res://::1721494004
 icon.svg::CompressedTexture2D::742923282493816400::1721449181::1721449204::1::::<><>::
 README.md::TextFile::-1::1721449181::0::1::::<><>::
 ::res://kenney_building-kit/::1721482661
@@ -552,22 +552,22 @@ wall.png::CompressedTexture2D::4025241803519285448::1721449182::1721449204::1:::
 ::res://kenney_building-kit/test textures/::1721482666
 pattern_37.png::CompressedTexture2D::452415321570864127::1721482661::1721482666::1::::<><>::
 pattern_59.png::CompressedTexture2D::6257177480510323681::1721482661::1721482666::1::::<><>::
-::res://Scenes/::1721493127
+::res://Scenes/::1721493917
 level.tscn::PackedScene::4494328265167162316::1721449181::0::1::::<><>::
-node_3d.tscn::PackedScene::5217695224484507261::1721493127::0::1::::<><>::uid://cjj6hkugckq48::::res://Scenes/Characters/enemy/enemy2.tscn<>uid://dbqlj1i10kns3::::res://kenney_building-kit/Models/walls/roof-flat-patch-large.obj<>uid://jrcqmh7y7xkl::::res://Scenes/Characters/Player/player.tscn<>uid://gpfhjw10ay3x::::res://kenney_building-kit/test textures/pattern_37.png<>uid://b3dpa8a8mw15k::::res://kenney_building-kit/Models/charactermodels/wheelchair-deluxe.obj<>uid://c4u3i6v5ogub1::::res://kenney_building-kit/Models/walls/wall-corner.obj<>uid://cpuoc1pfpi2np::::res://kenney_building-kit/Models/space/container-tall.obj<>uid://dnnulupc2gpng::::res://kenney_building-kit/Models/space/container-flat.obj<>uid://dqhb68fcxjvpn::::res://kenney_building-kit/Models/space/container.obj<>uid://bnbvlfxyya4i4::::res://kenney_building-kit/Models/space/stairs-small-edges.obj<>uid://cxj5gcmliidyr::::res://kenney_building-kit/Models/outdoor pack/crate-strong.obj<>uid://ou22uuitbdco::::res://kenney_building-kit/Models/space/wall.obj<>uid://cvlf8t6l7j1yd::::res://kenney_building-kit/Models/space/wall-corner.obj<>uid://cip85rjvtyvf7::::res://kenney_building-kit/Models/space/wall-door.obj<>uid://dx0vx5uajcyt4::::res://kenney_building-kit/Models/space/rocks.obj<>uid://cnotdw4ic13me::::res://kenney_building-kit/Models/space/pipe.obj<>uid://di6ppvv0e52bw::::res://kenney_building-kit/Models/space/pipe-ring.obj<>uid://dqjblbqecln05::::res://kenney_building-kit/Models/outdoor pack/stones.obj<>uid://cv33fatecwtfg::::res://kenney_building-kit/Models/space/pipe-bend.obj<>uid://bna11t3f7pv5x::::res://kenney_building-kit/Models/future/structure-short.obj<>uid://54hcraqm0s8p::::res://kenney_building-kit/Models/future/floor-large.obj<>uid://cubekrd06vir5::::res://kenney_building-kit/Models/future/robot-arm-a.obj<>uid://c6abllxqcmgkp::::res://kenney_building-kit/Models/space/door-single.obj<>uid://c0wdcv8m3xojc::::res://kenney_building-kit/Models/space/wall-detail.obj<>uid://b7idti2xd1ecg::::res://kenney_building-kit/Models/space/wall-door-edge-banner.obj<>uid://cpt6jtfepnyla::::res://kenney_building-kit/Models/space/wall-pillar.obj<>uid://c62igcbe2pgwo::::res://kenney_building-kit/Models/space/wall-window-frame.obj<>uid://c4au06k1cawq2::::res://kenney_building-kit/Models/space/pipe-end.obj
+node_3d.tscn::PackedScene::5217695224484507261::1721493917::0::1::::<><>::uid://cjj6hkugckq48::::res://Scenes/Characters/enemy/enemy2.tscn<>uid://dbqlj1i10kns3::::res://kenney_building-kit/Models/walls/roof-flat-patch-large.obj<>uid://jrcqmh7y7xkl::::res://Scenes/Characters/Player/player.tscn<>uid://gpfhjw10ay3x::::res://kenney_building-kit/test textures/pattern_37.png<>uid://b3dpa8a8mw15k::::res://kenney_building-kit/Models/charactermodels/wheelchair-deluxe.obj<>uid://c4u3i6v5ogub1::::res://kenney_building-kit/Models/walls/wall-corner.obj<>uid://cpuoc1pfpi2np::::res://kenney_building-kit/Models/space/container-tall.obj<>uid://dnnulupc2gpng::::res://kenney_building-kit/Models/space/container-flat.obj<>uid://dqhb68fcxjvpn::::res://kenney_building-kit/Models/space/container.obj<>uid://bnbvlfxyya4i4::::res://kenney_building-kit/Models/space/stairs-small-edges.obj<>uid://cxj5gcmliidyr::::res://kenney_building-kit/Models/outdoor pack/crate-strong.obj<>uid://ou22uuitbdco::::res://kenney_building-kit/Models/space/wall.obj<>uid://cvlf8t6l7j1yd::::res://kenney_building-kit/Models/space/wall-corner.obj<>uid://cip85rjvtyvf7::::res://kenney_building-kit/Models/space/wall-door.obj<>uid://dx0vx5uajcyt4::::res://kenney_building-kit/Models/space/rocks.obj<>uid://cnotdw4ic13me::::res://kenney_building-kit/Models/space/pipe.obj<>uid://di6ppvv0e52bw::::res://kenney_building-kit/Models/space/pipe-ring.obj<>uid://dqjblbqecln05::::res://kenney_building-kit/Models/outdoor pack/stones.obj<>uid://cv33fatecwtfg::::res://kenney_building-kit/Models/space/pipe-bend.obj<>uid://bna11t3f7pv5x::::res://kenney_building-kit/Models/future/structure-short.obj<>uid://54hcraqm0s8p::::res://kenney_building-kit/Models/future/floor-large.obj<>uid://cubekrd06vir5::::res://kenney_building-kit/Models/future/robot-arm-a.obj<>uid://c6abllxqcmgkp::::res://kenney_building-kit/Models/space/door-single.obj<>uid://c0wdcv8m3xojc::::res://kenney_building-kit/Models/space/wall-detail.obj<>uid://b7idti2xd1ecg::::res://kenney_building-kit/Models/space/wall-door-edge-banner.obj<>uid://cpt6jtfepnyla::::res://kenney_building-kit/Models/space/wall-pillar.obj<>uid://c62igcbe2pgwo::::res://kenney_building-kit/Models/space/wall-window-frame.obj<>uid://c4au06k1cawq2::::res://kenney_building-kit/Models/space/pipe-end.obj
 ::res://Scenes/Characters/::1721482661
 dummy.tscn::PackedScene::7450080712551829055::1721482661::0::1::::<><>::res://Scripts/Characters/Dummy.cs
-::res://Scenes/Characters/enemy/::1721493069
-enemy2.gd::GDScript::-1::1721491390::0::1::::<>CharacterBody3D<>::
-enemy2.tscn::PackedScene::5425015643653413739::1721493069::0::1::::<><>::uid://byyl4ifujqnt0::::res://kenney_building-kit/Models/charactermodels/character-male-b.obj<>res://Scenes/Characters/enemy/enemy2.gd
-::res://Scenes/Characters/Player/::1721493069
+::res://Scenes/Characters/enemy/::1721493916
+enemy2.gd::GDScript::-1::1721493685::0::1::::<>CharacterBody3D<>::
+enemy2.tscn::PackedScene::5425015643653413739::1721493916::0::1::::<><>::uid://byyl4ifujqnt0::::res://kenney_building-kit/Models/charactermodels/character-male-b.obj<>res://Scenes/Characters/enemy/enemy2.gd
+::res://Scenes/Characters/Player/::1721493916
 bullet.tscn::PackedScene::3961590304686292518::1721482661::0::1::::<><>::res://Scripts/Characters/Player/bullet.cs
 lightning.gd::GDScript::-1::1721482661::0::1::::<>Area3D<>::
 lightning.tscn::PackedScene::8966252009231191292::1721482661::0::1::::<><>::
-player.tscn::PackedScene::666944663830441851::1721493069::0::1::::<><>::res://Scripts/Characters/Player/CharacterBody3D.cs<>uid://bwpa2woxsc7xi::::res://Scenes/Characters/Player/bullet.tscn<>uid://d00k4i4jcylxc::::res://Scenes/Characters/Player/lightning.tscn
-::res://Scenes/Mainmenu/::1721493069
+player.tscn::PackedScene::666944663830441851::1721493916::0::1::::<><>::res://Scripts/Characters/Player/CharacterBody3D.cs<>uid://bwpa2woxsc7xi::::res://Scenes/Characters/Player/bullet.tscn<>uid://d00k4i4jcylxc::::res://Scenes/Characters/Player/lightning.tscn
+::res://Scenes/Mainmenu/::1721493916
 Menu.gd::GDScript::-1::1721482661::0::1::::<>Control<>::
-Menu.tscn::PackedScene::545027570650141822::1721493069::0::1::::<><>::res://Scenes/Mainmenu/Menu.gd
+Menu.tscn::PackedScene::545027570650141822::1721493916::0::1::::<><>::res://Scenes/Mainmenu/Menu.gd
 ::res://Scripts/::1721449181
 ::res://Scripts/Characters/::1721482661
 Dummy.cs::CSharpScript::-1::1721482661::0::1::::<>CharacterBody3D<>::
