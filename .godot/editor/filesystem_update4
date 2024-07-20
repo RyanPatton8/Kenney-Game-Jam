@@ -1,7 +1,7 @@
+res://Scenes/node_3d.tscn
 res://Scenes/Mainmenu/Menu.tscn
 res://Scenes/Characters/enemy/enemy2.tscn
 res://Scenes/Characters/Player/player.tscn
-res://Scenes/node_3d.tscn
 res://Scenes/Characters/Player/bullet.tscn
 res://Scripts/Characters/Dummy.cs
 res://Scripts/Characters/Player/bullet.cs
