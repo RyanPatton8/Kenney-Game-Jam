@@ -1,0 +1,44 @@
+[gd_scene load_steps=7 format=3 uid="uid://baufeds5itw6y"]
+
+[ext_resource type="PackedScene" uid="uid://dlh5qros7jb24" path="res://anim/cac-1721493041894.glb" id="1_5o3ft"]
+[ext_resource type="Script" path="res://AuxScene.gd" id="2_w6btt"]
+[ext_resource type="ArrayMesh" uid="uid://byyl4ifujqnt0" path="res://kenney_building-kit/Models/charactermodels/character-male-b.obj" id="3_qhl0f"]
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_faxsu"]
+animation = &"walk"
+
+[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_sqtx4"]
+advance_mode = 2
+
+[sub_resource type="AnimationNodeStateMachine" id="AnimationNodeStateMachine_xspas"]
+states/walk/node = SubResource("AnimationNodeAnimation_faxsu")
+states/walk/position = Vector2(347, 85.5)
+transitions = ["Start", "walk", SubResource("AnimationNodeStateMachineTransition_sqtx4")]
+
+[node name="AuxScene" instance=ExtResource("1_5o3ft")]
+script = ExtResource("2_w6btt")
+
+[node name="Character" type="MeshInstance3D" parent="." index="0"]
+mesh = ExtResource("3_qhl0f")
+
+[node name="NavigationAgent3D" type="NavigationAgent3D" parent="." index="1"]
+path_height_offset = 0.15
+
+[node name="Skeleton3D" parent="character-male-b" index="0"]
+bones/0/position = Vector3(0, 0, 0)
+bones/2/rotation = Quaternion(7.13357e-10, 0, 0, 1)
+bones/4/rotation = Quaternion(-5.36517e-09, 0, 0, 1)
+bones/6/rotation = Quaternion(-3.49555e-11, -7.96414e-12, -7.37052e-12, 1)
+bones/8/rotation = Quaternion(-3.78211e-11, -1.54223e-09, -0.382683, 0.92388)
+bones/10/rotation = Quaternion(-2.07661e-09, -1.87282e-09, 0.382683, 0.92388)
+bones/12/rotation = Quaternion(1.02459e-08, 0, 0, 1)
+
+[node name="AnimationTree" type="AnimationTree" parent="." index="4"]
+tree_root = SubResource("AnimationNodeStateMachine_xspas")
+anim_player = NodePath("../AnimationPlayer")
+
+[node name="Pivot" type="Node3D" parent="." index="5"]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 0, 0)
+
+[node name="Character" type="MeshInstance3D" parent="Pivot" index="0"]
+mesh = ExtResource("3_qhl0f")

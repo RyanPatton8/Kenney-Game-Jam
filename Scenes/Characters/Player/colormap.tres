@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cme8oxmakp3oy"]
+
+[ext_resource type="Texture2D" uid="uid://cxivn8li3ktgm" path="res://anim/cac-1721493041894_0.png" id="1_ud80e"]
+
+[resource]
+resource_name = "colormap"
+albedo_texture = ExtResource("1_ud80e")
+metallic = 0.5
+roughness = 0.5
+texture_repeat = false
