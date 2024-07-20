@@ -1,32 +1,15 @@
-[gd_scene load_steps=4 format=3 uid="uid://mwf5o8u5f6p"]
+[gd_scene load_steps=5 format=3 uid="uid://mwf5o8u5f6p"]
 
+[ext_resource type="Script" path="res://Scenes/Characters/enemy/enemy2.cs" id="1_ilrei"]
 [ext_resource type="ArrayMesh" uid="uid://c531i4nugolg2" path="res://kenney_building-kit/Models/charactermodels/character-male-c.obj" id="2_3xxbo"]
-
-[sub_resource type="CSharpScript" id="CSharpScript_thtkn"]
-script/source = "using Godot;
-
-public partial class Mob : CharacterBody3D
-{
-	// Don't forget to rebuild the project so the editor knows about the new export variable.
-
-	// Minimum speed of the mob in meters per second
-	[Export]
-	public int MinSpeed { get; set; } = 10;
-	// Maximum speed of the mob in meters per second
-	[Export]
-	public int MaxSpeed { get; set; } = 18;
-
-	public override void _PhysicsProcess(double delta)
-	{
-		MoveAndSlide();
-	}
-}
-"
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_0dpf0"]
 
-[node name="Player" type="CharacterBody3D"]
-script = SubResource("CSharpScript_thtkn")
+[sub_resource type="SphereShape3D" id="SphereShape3D_3kjt1"]
+
+[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("searchArea")]
+script = ExtResource("1_ilrei")
+searchArea = NodePath("Area3D")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
 shape = SubResource("CapsuleShape3D_0dpf0")
@@ -36,3 +19,9 @@ mesh = ExtResource("2_3xxbo")
 
 [node name="Node3D" type="Node3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.6, 0)
+
+[node name="Area3D" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D"]
+transform = Transform3D(40, 0, 0, 0, 40, 0, 0, 0, 40, 0, 0, 0)
+shape = SubResource("SphereShape3D_3kjt1")
