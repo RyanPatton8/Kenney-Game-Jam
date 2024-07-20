@@ -1,15 +1,11 @@
-[gd_scene load_steps=5 format=3 uid="uid://mwf5o8u5f6p"]
+[gd_scene load_steps=3 format=3 uid="uid://mwf5o8u5f6p"]
 
 [ext_resource type="Script" path="res://Scenes/Characters/enemy/enemy2.cs" id="1_ilrei"]
 [ext_resource type="ArrayMesh" uid="uid://c531i4nugolg2" path="res://kenney_building-kit/Models/charactermodels/character-male-c.obj" id="2_3xxbo"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_0dpf0"]
 
-[sub_resource type="SphereShape3D" id="SphereShape3D_3kjt1"]
-
-[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("searchArea")]
-script = ExtResource("1_ilrei")
-searchArea = NodePath("Area3D")
+[node name="Player" type="CharacterBody3D"]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
 shape = SubResource("CapsuleShape3D_0dpf0")
