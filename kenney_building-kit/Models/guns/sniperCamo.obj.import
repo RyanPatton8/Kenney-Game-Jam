@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bi1qo58no1dsm"
+path="res://.godot/imported/sniperCamo.obj-7ff1eaee9763ef863e324d3513506551.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sniperCamo.obj-7ff1eaee9763ef863e324d3513506551.mesh"]
+
+source_file="res://kenney_building-kit/Models/guns/sniperCamo.obj"
+dest_files=["res://.godot/imported/sniperCamo.obj-7ff1eaee9763ef863e324d3513506551.mesh", "res://.godot/imported/sniperCamo.obj-7ff1eaee9763ef863e324d3513506551.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
