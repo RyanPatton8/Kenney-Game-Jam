@@ -21,7 +21,7 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	[Export] public Timer shootCoolDown {get; private set;}
 	[Export] public Timer shockCoolDown {get; private set;}
 
-	[Export] public int maxBulletCount {get; private set;}
+	private int maxBulletCount = 10;
 
 	private int bulletCount = 0;
 	private bool canShoot = true;

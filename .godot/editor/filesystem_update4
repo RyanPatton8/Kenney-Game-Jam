@@ -1,9 +1,9 @@
-res://Scenes/node_3d.tscn
 res://Scenes/Mainmenu/Menu.tscn
 res://Scenes/Characters/enemy/enemy2.tscn
 res://Scenes/Characters/Player/player.tscn
-res://Scripts/Characters/Player/bullet.cs
+res://Scenes/node_3d.tscn
+res://Scenes/Characters/Player/bullet.tscn
 res://Scripts/Characters/Dummy.cs
-res://Scripts/Characters/Player/lightningArea.cs
+res://Scripts/Characters/Player/bullet.cs
 res://Scripts/Characters/Player/CharacterBody3D.cs
-res://Scenes/Characters/enemy/enemy2.gd
+res://Scripts/Characters/Player/lightningArea.cs
