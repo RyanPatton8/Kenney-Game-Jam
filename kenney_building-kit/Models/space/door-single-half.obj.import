@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://y2ici3bcuh7r"
+path="res://.godot/imported/door-single-half.obj-c18c7b36203d4a063f9e260247f86a5e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/door-single-half.obj-c18c7b36203d4a063f9e260247f86a5e.mesh"]
+
+source_file="res://kenney_building-kit/Models/space/door-single-half.obj"
+dest_files=["res://.godot/imported/door-single-half.obj-c18c7b36203d4a063f9e260247f86a5e.mesh", "res://.godot/imported/door-single-half.obj-c18c7b36203d4a063f9e260247f86a5e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cvu2dy5aaipyv"
+path="res://.godot/imported/balcony-floor-center.obj-b407386400d21f5647bed62be62e2dfd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/balcony-floor-center.obj-b407386400d21f5647bed62be62e2dfd.mesh"]
+
+source_file="res://kenney_building-kit/Models/space/balcony-floor-center.obj"
+dest_files=["res://.godot/imported/balcony-floor-center.obj-b407386400d21f5647bed62be62e2dfd.mesh", "res://.godot/imported/balcony-floor-center.obj-b407386400d21f5647bed62be62e2dfd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

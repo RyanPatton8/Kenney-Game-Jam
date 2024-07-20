@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cspqnw5pdk8ux"
+path="res://.godot/imported/skip-rocks.obj-01efd4746494a03e72d6449c0d14a49e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/skip-rocks.obj-01efd4746494a03e72d6449c0d14a49e.mesh"]
+
+source_file="res://kenney_building-kit/Models/space/skip-rocks.obj"
+dest_files=["res://.godot/imported/skip-rocks.obj-01efd4746494a03e72d6449c0d14a49e.mesh", "res://.godot/imported/skip-rocks.obj-01efd4746494a03e72d6449c0d14a49e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
