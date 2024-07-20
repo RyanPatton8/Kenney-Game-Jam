@@ -1,21 +1,16 @@
-[gd_scene load_steps=6 format=3 uid="uid://jrcqmh7y7xkl"]
+[gd_scene load_steps=4 format=3 uid="uid://jrcqmh7y7xkl"]
 
 [ext_resource type="Script" path="res://Scripts/Characters/Player/CharacterBody3D.cs" id="1_8oxv8"]
-[ext_resource type="PackedScene" uid="uid://bwpa2woxsc7xi" path="res://Scenes/Characters/Player/bullet.tscn" id="2_wqlsh"]
-[ext_resource type="PackedScene" uid="uid://d00k4i4jcylxc" path="res://Scenes/Characters/Player/lightning.tscn" id="3_ik6g1"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_0dpf0"]
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_t8vw4"]
 
-[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("neck", "camera", "attackPos")]
+[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("neck", "camera")]
 script = ExtResource("1_8oxv8")
 MouseSensitivity = 0.001
 neck = NodePath("Node3D")
 camera = NodePath("Node3D/Camera3D")
-attackPos = NodePath("Node3D/Camera3D/AttackPosition")
-bullet = ExtResource("2_wqlsh")
-lightning = ExtResource("3_ik6g1")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
 shape = SubResource("CapsuleShape3D_0dpf0")

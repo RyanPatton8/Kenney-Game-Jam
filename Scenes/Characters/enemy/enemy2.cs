@@ -32,7 +32,7 @@ public partial class enemy2 : CharacterBody3D
 	public override void _Ready()
 	{
 		CurrentState = State.IDLE;
-		target = GetParent().GetNode<Node3D>("character");
+		target = GetParent().GetNode<Node3D>("Player");
 		anim = GetNode<AnimationPlayer>("AnimationPlayer");
 
 		// searchArea.BodyEntered += MoveToward;

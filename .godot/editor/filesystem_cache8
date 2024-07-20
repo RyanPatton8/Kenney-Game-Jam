@@ -1,577 +1,577 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1721480072
-icon.svg::CompressedTexture2D::742923282493816400::1721480020::1721480076::1::::<><>::
-README.md::TextFile::-1::1721480019::0::1::::<><>::
-::res://kenney_building-kit/::1721480039
-License.txt::TextFile::-1::1721480020::0::1::::<><>::
-Preview (Variation A).png::CompressedTexture2D::2637966193591351520::1721480039::1721480076::1::::<><>::
-Preview.png::CompressedTexture2D::5835151943577293758::1721480039::1721480076::1::::<><>::
-Sample.png::CompressedTexture2D::5548287143121706031::1721480039::1721480076::1::::<><>::
-::res://kenney_building-kit/Models/::1721480036
-::res://kenney_building-kit/Models/charactermodels/::1721480021
-aid-cane-blind.obj::Mesh::3427119411035371026::1721480020::1721480099::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-aid-cane-low-vision.obj::Mesh::936800124427801297::1721480020::1721480099::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-aid-cane.obj::Mesh::3428491758450414992::1721480020::1721480099::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-aid-crutch.obj::Mesh::1777113802729274031::1721480020::1721480099::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-aid-defibrillator-green.obj::Mesh::7995433418598580832::1721480020::1721480099::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-aid-defibrillator-red.obj::Mesh::6885588267771457800::1721480020::1721480099::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-aid-glasses.obj::Mesh::8845306814398382988::1721480020::1721480100::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-aid-mask.obj::Mesh::8595291100549490758::1721480020::1721480100::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-aid-sunglasses.obj::Mesh::6420680467207895173::1721480020::1721480100::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-aid_hearing.obj::Mesh::9033230952949099383::1721480020::1721480100::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-female-a.obj::Mesh::4328722103218394062::1721480020::1721480100::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-female-b.obj::Mesh::6672929465950555441::1721480020::1721480100::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-female-c.obj::Mesh::8123175844555700089::1721480020::1721480101::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-female-d.obj::Mesh::9006491727896754531::1721480020::1721480101::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-female-e.obj::Mesh::3143408782696919626::1721480020::1721480101::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-female-f.obj::Mesh::3729940848179223738::1721480020::1721480101::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-male-a.obj::Mesh::3998048046641734335::1721480020::1721480101::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-male-b.obj::Mesh::4121218100879189283::1721480020::1721480101::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-male-c.obj::Mesh::6937903725980915875::1721480021::1721480102::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-male-d.obj::Mesh::157137098613263187::1721480021::1721480102::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-male-e.obj::Mesh::2910856690425665228::1721480021::1721480102::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-character-male-f.obj::Mesh::6183849660537427104::1721480021::1721480102::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-wheelchair-deluxe.obj::Mesh::4358813928498539646::1721480021::1721480102::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-wheelchair-power-deluxe.obj::Mesh::5010075696719048241::1721480021::1721480102::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-wheelchair-power.obj::Mesh::7088368934338286450::1721480021::1721480102::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-wheelchair.obj::Mesh::8455924276856378538::1721480021::1721480103::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
-::res://kenney_building-kit/Models/charactermodels/Textures/::1721480020
-colormap.png::CompressedTexture2D::1394236907538727725::1721480020::1721480076::1::::<><>::
-::res://kenney_building-kit/Models/future/::1721480023
-arrow-basic.obj::Mesh::2867666394066978380::1721480021::1721480103::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-arrow.obj::Mesh::5118509901417874101::1721480021::1721480103::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-box-large.obj::Mesh::3825049014415897896::1721480021::1721480094::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-box-long.obj::Mesh::4262315628129168807::1721480021::1721480094::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-box-small.obj::Mesh::2536708807909007147::1721480021::1721480095::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-box-wide.obj::Mesh::3497948580153233754::1721480021::1721480095::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-bars-fence.obj::Mesh::4983621495423169763::1721480021::1721480095::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-bars-high.obj::Mesh::798894190344384029::1721480021::1721480095::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-bars-sides.obj::Mesh::8923955298058088351::1721480021::1721480095::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-bars-stripe-fence.obj::Mesh::4296385971541895075::1721480021::1721480095::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-bars-stripe-high.obj::Mesh::3792535510987364099::1721480021::1721480096::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-bars-stripe-side.obj::Mesh::7734246974122695275::1721480021::1721480096::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-bars-stripe.obj::Mesh::4878872449656419031::1721480021::1721480096::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-bars.obj::Mesh::5296701708084078146::1721480022::1721480096::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-long-sides.obj::Mesh::7832804945172987549::1721480022::1721480096::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-long-stripe-sides.obj::Mesh::412943186618641846::1721480022::1721480096::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-long-stripe.obj::Mesh::4170371723705516443::1721480022::1721480096::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-long.obj::Mesh::5800605896229775857::1721480022::1721480097::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-sides.obj::Mesh::1985819954051050223::1721480022::1721480097::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-stripe-sides.obj::Mesh::6767773030382599072::1721480022::1721480097::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor-stripe.obj::Mesh::1155754498879491376::1721480022::1721480097::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-conveyor.obj::Mesh::9075442624651540454::1721480022::1721480097::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-bar.obj::Mesh::7570807900485600440::1721480022::1721480097::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-corner.obj::Mesh::1208398321352305274::1721480022::1721480098::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-hopper.obj::Mesh::4468693589040771422::1721480022::1721480098::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-stripe-bar.obj::Mesh::4600155034340242096::1721480022::1721480098::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-stripe-corner.obj::Mesh::9199165214540445546::1721480022::1721480098::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-stripe-hopper.obj::Mesh::6826754132126515171::1721480022::1721480098::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-stripe-top.obj::Mesh::114893230670274748::1721480022::1721480098::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-stripe-window.obj::Mesh::8369706296554531635::1721480022::1721480107::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-stripe.obj::Mesh::3188341481821089346::1721480022::1721480107::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-top.obj::Mesh::1703642105311884264::1721480022::1721480107::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover-window.obj::Mesh::1380652054377470177::1721480022::1721480107::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-cover.obj::Mesh::3140128798466569344::1721480022::1721480108::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-door-wide-closed.obj::Mesh::8813392435990556751::1721480022::1721480108::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-door-wide-half.obj::Mesh::7342625436011336874::1721480022::1721480108::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-door-wide-open.obj::Mesh::1756226667845817581::1721480022::1721480108::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-door.obj::Mesh::5714685547632377246::1721480022::1721480108::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-floor-large.obj::Mesh::2165961748186839873::1721480022::1721480108::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-floor.obj::Mesh::4854182746048948532::1721480023::1721480109::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-robot-arm-a.obj::Mesh::6178944242520537336::1721480023::1721480109::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-robot-arm-b.obj::Mesh::4488701553263469915::1721480023::1721480109::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-scanner-high.obj::Mesh::2311414563919506417::1721480023::1721480109::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-scanner-low.obj::Mesh::7026654369484118145::1721480023::1721480109::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-corner-inner.obj::Mesh::6424628542648229526::1721480023::1721480109::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-corner-outer.obj::Mesh::5988979702640414608::1721480023::1721480110::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-doorway-wide.obj::Mesh::8150218862524104293::1721480023::1721480110::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-doorway.obj::Mesh::1028528826166572189::1721480023::1721480110::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-high.obj::Mesh::1705836471920958738::1721480023::1721480110::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-medium.obj::Mesh::2121436523235994771::1721480023::1721480110::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-short.obj::Mesh::3300501764909708543::1721480023::1721480110::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-tall.obj::Mesh::8848325382096772956::1721480023::1721480110::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-wall.obj::Mesh::7707082235094850569::1721480023::1721480111::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-window-wide.obj::Mesh::8044558682579273194::1721480023::1721480111::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-window.obj::Mesh::2829427906693139644::1721480023::1721480111::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-yellow-high.obj::Mesh::3080896514031820461::1721480023::1721480111::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-yellow-medium.obj::Mesh::1455030801616112691::1721480023::1721480111::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-yellow-short.obj::Mesh::3699145116416382982::1721480023::1721480080::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-structure-yellow-tall.obj::Mesh::418969293428824525::1721480023::1721480080::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-top-large.obj::Mesh::3980657130174270643::1721480023::1721480131::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-top.obj::Mesh::3648751389697995027::1721480023::1721480127::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
-::res://kenney_building-kit/Models/future/Textures/::1721480021
-colormap.png::CompressedTexture2D::1581849973986727202::1721480021::1721480076::1::::<><>::
-::res://kenney_building-kit/Models/guns/::1721480025
-ammo_machinegun.obj::Mesh::4532378184090449343::1721480023::1721480124::1::::<><>::
-ammo_machinegunLauncher.obj::Mesh::396797844992332361::1721480023::1721480124::1::::<><>::
-ammo_pistol.obj::Mesh::3330786511205807949::1721480023::1721480124::1::::<><>::
-ammo_rocket.obj::Mesh::8241261144988053819::1721480024::1721480124::1::::<><>::
-ammo_rocketModern.obj::Mesh::3376188179367177545::1721480024::1721480124::1::::<><>::
-ammo_shotgun.obj::Mesh::346842068810650894::1721480024::1721480123::1::::<><>::
-ammo_sniper.obj::Mesh::7197606683741059253::1721480024::1721480123::1::::<><>::
-ammo_uzi.obj::Mesh::2513488689456463053::1721480024::1721480123::1::::<><>::
-flamethrower.obj::Mesh::2764403723122177347::1721480024::1721480123::1::::<><>::
-flamethrowerHandle.obj::Mesh::3229889381164467385::1721480024::1721480123::1::::<><>::
-grenade.obj::Mesh::5375630032891919472::1721480024::1721480123::1::::<><>::
-grenadeFlash.obj::Mesh::6810732602648732959::1721480024::1721480122::1::::<><>::
-grenadeSmoke.obj::Mesh::861244431310035238::1721480024::1721480122::1::::<><>::
-grenade_vintage.obj::Mesh::5876976843067417377::1721480024::1721480122::1::::<><>::
-knifeRound_sharp.obj::Mesh::1124490021590600781::1721480024::1721480122::1::::<><>::
-knifeRound_smooth.obj::Mesh::5520926352411666121::1721480024::1721480122::1::::<><>::
-knife_sharp.obj::Mesh::7710633347637332096::1721480024::1721480121::1::::<><>::
-knife_smooth.obj::Mesh::7207705050809091297::1721480024::1721480121::1::::<><>::
-machinegun.obj::Mesh::8107199992227648504::1721480024::1721480121::1::::<><>::
-machinegunLauncher.obj::Mesh::3005552944239755628::1721480024::1721480121::1::::<><>::
-pistol.obj::Mesh::8962308507583368481::1721480024::1721480121::1::::<><>::
-pistolSilencer.obj::Mesh::4473978550720549971::1721480024::1721480121::1::::<><>::
-rocketlauncher.obj::Mesh::8802732831291069597::1721480024::1721480120::1::::<><>::
-rocketlauncherModern.obj::Mesh::1230958921254898060::1721480025::1721480120::1::::<><>::
-rocketlauncherModernRotating.obj::Mesh::6559859940012525719::1721480025::1721480120::1::::<><>::
-rocketlauncherSide.obj::Mesh::5829781466759832244::1721480025::1721480120::1::::<><>::
-shotgun.obj::Mesh::6125541996490298971::1721480025::1721480120::1::::<><>::
-shotgunShort.obj::Mesh::3014947731463311034::1721480025::1721480119::1::::<><>::
-sniper.obj::Mesh::2292176410337544318::1721480025::1721480129::1::::<><>::
-sniperCamo.obj::Mesh::3002603354691291532::1721480025::1721480129::1::::<><>::
-uzi.obj::Mesh::7820629762684243940::1721480025::1721480129::1::::<><>::
-uziGold.obj::Mesh::7068135455650902391::1721480025::1721480128::1::::<><>::
-uziGoldLong.obj::Mesh::1598487799401352258::1721480025::1721480128::1::::<><>::
-uziGoldLongSilencer.obj::Mesh::5126348140623097487::1721480025::1721480128::1::::<><>::
-uziGoldSilencer.obj::Mesh::620379121184937991::1721480025::1721480128::1::::<><>::
-uziLong.obj::Mesh::30607954299444933::1721480025::1721480128::1::::<><>::
-uziLongSilencer.obj::Mesh::5851179449696017659::1721480025::1721480127::1::::<><>::
-uziSilencer.obj::Mesh::8270588408509351303::1721480025::1721480127::1::::<><>::
-::res://kenney_building-kit/Models/outdoor pack/::1721480032
-arrow.obj::Mesh::3456008878851272974::1721480025::1721480127::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-arrows.obj::Mesh::8884620108897807946::1721480025::1721480127::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-barrel.obj::Mesh::2031357728901095322::1721480025::1721480126::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-corner-low.obj::Mesh::2512958645163653202::1721480025::1721480126::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-corner-overhang-low.obj::Mesh::2230118301142060702::1721480025::1721480126::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-corner-overhang.obj::Mesh::1691270889747361624::1721480025::1721480126::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-corner.obj::Mesh::1907609772266317667::1721480026::1721480126::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-curve-half.obj::Mesh::6220164594260212313::1721480026::1721480126::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-curve-low.obj::Mesh::8188308217657832771::1721480026::1721480126::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-curve.obj::Mesh::2205969806957480379::1721480026::1721480125::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-edge.obj::Mesh::6408939081799865918::1721480026::1721480125::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-hexagon.obj::Mesh::8518042270796876470::1721480026::1721480125::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-large-slope-narrow.obj::Mesh::7015209218615978591::1721480026::1721480125::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-large-slope-steep-narrow.obj::Mesh::1815088439503859770::1721480026::1721480125::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-large-slope-steep.obj::Mesh::6576408076025893630::1721480026::1721480125::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-large-slope.obj::Mesh::821856440108814677::1721480026::1721480125::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-large-tall.obj::Mesh::2766066771947530026::1721480026::1721480125::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-large.obj::Mesh::3039900653828906497::1721480026::1721480115::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-long.obj::Mesh::2487599562128842090::1721480026::1721480115::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-low-hexagon.obj::Mesh::2648087771743594295::1721480026::1721480115::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-low-large.obj::Mesh::5122603681396770951::1721480026::1721480115::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-low-long.obj::Mesh::1935788006544335054::1721480026::1721480114::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-low-narrow.obj::Mesh::1225650003989974321::1721480026::1721480114::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-low.obj::Mesh::6971486800498583134::1721480026::1721480114::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-narrow.obj::Mesh::6321662612416509127::1721480026::1721480114::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-corner.obj::Mesh::9161679704126439600::1721480026::1721480114::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-edge.obj::Mesh::7488985558716765945::1721480026::1721480114::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-hexagon.obj::Mesh::7508670470809215619::1721480026::1721480114::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-large-slope-narrow.obj::Mesh::7156431835823613023::1721480026::1721480114::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-large-slope-steep-narrow.obj::Mesh::6295052043992041574::1721480026::1721480113::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-large-slope-steep.obj::Mesh::7814343635573750158::1721480026::1721480113::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-large-slope.obj::Mesh::9133356905363828289::1721480026::1721480113::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-large-tall.obj::Mesh::4898480189342681455::1721480026::1721480113::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-large.obj::Mesh::3845360155026567147::1721480026::1721480113::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-long.obj::Mesh::626443239955118563::1721480026::1721480113::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-low-hexagon.obj::Mesh::8536609265866831039::1721480026::1721480113::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-low-large.obj::Mesh::398083129561385935::1721480026::1721480112::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-low-long.obj::Mesh::4724215325247572373::1721480026::1721480112::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-low-narrow.obj::Mesh::395844713082827503::1721480026::1721480112::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-low.obj::Mesh::8710631017547049577::1721480027::1721480112::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass-overhang-narrow.obj::Mesh::403270073782969172::1721480027::1721480112::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-grass.obj::Mesh::5663843075847479666::1721480027::1721480112::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-moving-blue.obj::Mesh::1449199837145044240::1721480027::1721480111::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-moving-large.obj::Mesh::2301589602293500638::1721480027::1721480111::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-moving.obj::Mesh::6765549600415903453::1721480027::1721480119::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-corner-low.obj::Mesh::3337904357883102027::1721480027::1721480119::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-corner-overhang-low.obj::Mesh::4740947006859273711::1721480027::1721480119::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-corner-overhang.obj::Mesh::8600858967903302068::1721480027::1721480119::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-corner.obj::Mesh::8948508296311664597::1721480027::1721480119::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-curve-half.obj::Mesh::2128764766891146371::1721480027::1721480118::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-curve-low.obj::Mesh::4762577755142869766::1721480027::1721480118::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-curve.obj::Mesh::4397194426130103048::1721480027::1721480118::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-edge.obj::Mesh::2517351984127774446::1721480027::1721480118::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-hexagon.obj::Mesh::8663613720429706711::1721480027::1721480118::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-large-slope-narrow.obj::Mesh::7593397697736257598::1721480027::1721480118::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-large-slope-steep-narrow.obj::Mesh::4831742307854273929::1721480027::1721480117::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-large-slope-steep.obj::Mesh::588983295085499072::1721480027::1721480117::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-large-slope.obj::Mesh::3315387214738354701::1721480027::1721480117::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-large-tall.obj::Mesh::5296270959550987979::1721480027::1721480117::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-large.obj::Mesh::47994952248715660::1721480027::1721480117::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-long.obj::Mesh::7845564744097297982::1721480028::1721480117::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-low-hexagon.obj::Mesh::501288793688619024::1721480028::1721480117::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-low-large.obj::Mesh::4172348970600505065::1721480028::1721480116::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-low-long.obj::Mesh::1984453508499243942::1721480028::1721480116::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-low-narrow.obj::Mesh::5481676441357046392::1721480028::1721480116::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-low.obj::Mesh::1583687960633828512::1721480028::1721480116::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-narrow.obj::Mesh::4222961911414100636::1721480028::1721480116::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-corner.obj::Mesh::7291352185657140250::1721480028::1721480116::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-edge.obj::Mesh::8957023248262266632::1721480028::1721480116::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-hexagon.obj::Mesh::2793020211894304421::1721480028::1721480115::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-large-slope-narrow.obj::Mesh::8859250206404069280::1721480028::1721480115::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-large-slope-steep-narrow.obj::Mesh::1815313254135505062::1721480028::1721480115::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-large-slope-steep.obj::Mesh::7679016134656152096::1721480028::1721480143::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-large-slope.obj::Mesh::7949166377327858281::1721480028::1721480143::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-large-tall.obj::Mesh::6000906600371303852::1721480028::1721480143::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-large.obj::Mesh::3978215101314584671::1721480028::1721480143::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-long.obj::Mesh::5098566708513441946::1721480028::1721480143::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-low-hexagon.obj::Mesh::7963822058991822568::1721480028::1721480143::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-low-large.obj::Mesh::6109363938511255958::1721480028::1721480143::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-low-long.obj::Mesh::7588658189804292062::1721480028::1721480142::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-low-narrow.obj::Mesh::4473299085135995147::1721480029::1721480142::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-low.obj::Mesh::8539928019294340172::1721480029::1721480142::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow-overhang-narrow.obj::Mesh::101946887873016565::1721480029::1721480142::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-block-snow.obj::Mesh::3349246343654759550::1721480029::1721480142::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-bomb.obj::Mesh::6962740214143613339::1721480029::1721480142::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-button-round.obj::Mesh::5846095910955827896::1721480029::1721480141::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-button-square.obj::Mesh::4062992414822222632::1721480029::1721480141::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-chest.obj::Mesh::2597396775413519325::1721480029::1721480141::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-coin-bronze.obj::Mesh::8127389214614402561::1721480029::1721480141::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-coin-gold.obj::Mesh::7245735774300520686::1721480029::1721480140::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-coin-silver.obj::Mesh::1046305905429980725::1721480029::1721480140::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-crate-item-strong.obj::Mesh::4251164646096236070::1721480029::1721480140::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-crate-item.obj::Mesh::4156277186092453460::1721480029::1721480140::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-crate-strong.obj::Mesh::6407596519489060589::1721480029::1721480140::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-crate.obj::Mesh::3850152602175601171::1721480029::1721480140::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-door-large-open.obj::Mesh::4853213965777850321::1721480029::1721480139::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-door-open.obj::Mesh::7440451076905788228::1721480029::1721480139::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-door-rotate-large.obj::Mesh::3849762012024151569::1721480029::1721480139::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-door-rotate.obj::Mesh::7514269964709929755::1721480029::1721480139::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-fence-broken.obj::Mesh::127893746455091142::1721480029::1721480139::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-fence-corner-curved.obj::Mesh::2131782240246255659::1721480030::1721480149::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-fence-corner.obj::Mesh::8020799972421100378::1721480030::1721480148::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-fence-low-broken.obj::Mesh::2030792471173029654::1721480030::1721480148::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-fence-low-corner-curved.obj::Mesh::5436201048744709919::1721480030::1721480148::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-fence-low-corner.obj::Mesh::3185886128704557792::1721480030::1721480148::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-fence-low-straight.obj::Mesh::8435508798765381327::1721480030::1721480148::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-fence-straight.obj::Mesh::5902591157071458426::1721480030::1721480148::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-flag.obj::Mesh::6711061359695284699::1721480030::1721480147::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-flowers-tall.obj::Mesh::305042901792161080::1721480030::1721480147::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-flowers.obj::Mesh::8460513844129476159::1721480030::1721480147::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-grass.obj::Mesh::5312152287735406243::1721480030::1721480147::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-heart.obj::Mesh::6574854194916376360::1721480030::1721480147::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-hedge-corner.obj::Mesh::575521654716529955::1721480030::1721480147::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-hedge.obj::Mesh::1239998141959346801::1721480030::1721480146::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-jewel.obj::Mesh::8329410280975674328::1721480030::1721480146::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-key.obj::Mesh::5553025217456522404::1721480030::1721480146::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-ladder-broken.obj::Mesh::8030737847285260868::1721480030::1721480146::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-ladder-long.obj::Mesh::7890293321841399529::1721480031::1721480146::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-ladder.obj::Mesh::8944745853207893190::1721480031::1721480145::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-lever.obj::Mesh::8431242320954293958::1721480031::1721480145::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-lock.obj::Mesh::2352460316076019045::1721480031::1721480145::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-mushrooms.obj::Mesh::3385115630055101859::1721480031::1721480145::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-plant.obj::Mesh::4319981804479605490::1721480031::1721480144::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-platform-fortified.obj::Mesh::4803734305160978527::1721480031::1721480144::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-platform-overhang.obj::Mesh::513837461982464507::1721480031::1721480144::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-platform-ramp.obj::Mesh::5107441638081174939::1721480031::1721480144::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-platform.obj::Mesh::4880097311341976329::1721480031::1721480144::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-poles.obj::Mesh::7845270524782496461::1721480031::1721480144::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-rocks.obj::Mesh::8428107107406436195::1721480031::1721480134::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-saw.obj::Mesh::1078429044185258877::1721480031::1721480133::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-sign.obj::Mesh::7661549182845245241::1721480031::1721480133::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-spike-block-wide.obj::Mesh::9061097790629270635::1721480031::1721480133::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-spike-block.obj::Mesh::4723315694109427108::1721480031::1721480133::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-stones.obj::Mesh::8300943387225163036::1721480032::1721480133::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-trap-spikes-large.obj::Mesh::8149604664388385699::1721480032::1721480133::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-trap-spikes.obj::Mesh::571763548902558410::1721480032::1721480132::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-tree-pine-small.obj::Mesh::4485796905939329267::1721480032::1721480132::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-tree-pine-snow-small.obj::Mesh::3348693487358786188::1721480032::1721480132::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-tree-pine-snow.obj::Mesh::3296012572205644660::1721480032::1721480132::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-tree-pine.obj::Mesh::5847093510866274108::1721480032::1721480132::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-tree-snow.obj::Mesh::7109123068506250349::1721480032::1721480132::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-tree.obj::Mesh::7166304959972865288::1721480032::1721480131::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
-::res://kenney_building-kit/Models/outdoor pack/Textures/::1721480025
-colormap.png::CompressedTexture2D::3449467800619421705::1721480025::1721480075::1::::<><>::
-::res://kenney_building-kit/Models/space/::1721480036
-balcony-floor-center.obj::Mesh::6289740661957355457::1721480032::1721480131::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-balcony-floor-corner.obj::Mesh::794041420686007086::1721480032::1721480131::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-balcony-floor.obj::Mesh::7228537579318204019::1721480032::1721480131::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-balcony-rail-center.obj::Mesh::787409297207322753::1721480032::1721480131::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-balcony-rail-corner.obj::Mesh::4825240779828009334::1721480032::1721480131::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-balcony-rail.obj::Mesh::615069434957659563::1721480032::1721480130::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-bed-double-cover.obj::Mesh::6648850209329484586::1721480032::1721480130::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-bed-double.obj::Mesh::3772409609459568201::1721480032::1721480130::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-bed-single-cover.obj::Mesh::4616346378432347041::1721480032::1721480130::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-bed-single.obj::Mesh::542528768300786591::1721480032::1721480130::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-chair-armrest-headrest.obj::Mesh::4558071412042900180::1721480032::1721480130::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-chair-armrest.obj::Mesh::7629787682698258771::1721480033::1721480130::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-chair-cushion-headrest.obj::Mesh::3706342618491072084::1721480033::1721480129::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-chair-cushion.obj::Mesh::2828793531351769738::1721480033::1721480139::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-chair-headrest.obj::Mesh::4656860947394710414::1721480033::1721480138::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-chair.obj::Mesh::8772724383057888363::1721480033::1721480138::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-computer-screen.obj::Mesh::2512914895214899813::1721480033::1721480138::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-computer-system.obj::Mesh::8162323282477691105::1721480033::1721480138::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-computer-wide.obj::Mesh::5598640059768334364::1721480033::1721480138::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-computer.obj::Mesh::8469451038791542234::1721480033::1721480137::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-container-flat-open.obj::Mesh::7439796887359478205::1721480033::1721480137::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-container-flat.obj::Mesh::8099788986531059036::1721480033::1721480137::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-container-tall.obj::Mesh::5867816575551161925::1721480033::1721480137::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-container-wide.obj::Mesh::3594667062494870097::1721480033::1721480137::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-container.obj::Mesh::8296852011286619927::1721480033::1721480137::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-display-wall-wide.obj::Mesh::5203667591160199445::1721480033::1721480136::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-display-wall.obj::Mesh::5756948826005150708::1721480033::1721480136::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-door-double-closed.obj::Mesh::6698325236549917355::1721480033::1721480136::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-door-double-half.obj::Mesh::5966521049734495213::1721480033::1721480136::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-door-double.obj::Mesh::2270707495074116234::1721480033::1721480136::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-door-single-closed.obj::Mesh::7540801480015253313::1721480033::1721480136::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-door-single-half.obj::Mesh::1740760217692560845::1721480033::1721480135::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-door-single.obj::Mesh::6948776494908397883::1721480033::1721480135::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-floor-corner.obj::Mesh::3864944006196270065::1721480033::1721480135::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-floor-detail.obj::Mesh::2124852487510070585::1721480033::1721480135::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-floor-panel-corner.obj::Mesh::1119946305252892510::1721480034::1721480135::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-floor-panel-end.obj::Mesh::6398809339250088433::1721480034::1721480135::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-floor-panel-straight.obj::Mesh::7184291242234415414::1721480034::1721480134::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-floor-panel.obj::Mesh::1682793660468864624::1721480034::1721480134::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-floor.obj::Mesh::6800114843057452537::1721480034::1721480134::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-pipe-bend-diagonal.obj::Mesh::9054240694067829804::1721480034::1721480134::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-pipe-bend.obj::Mesh::6306318695202126476::1721480034::1721480090::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-pipe-end-colored.obj::Mesh::7094284267498980386::1721480034::1721480089::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-pipe-end.obj::Mesh::6809578462448011251::1721480034::1721480089::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-pipe-ring-colored.obj::Mesh::8506682472800318987::1721480034::1721480089::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-pipe-ring.obj::Mesh::7785707188933172788::1721480034::1721480089::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-pipe.obj::Mesh::5715357804161979452::1721480034::1721480089::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-rail-narrow.obj::Mesh::2211500246393617770::1721480034::1721480089::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-rail.obj::Mesh::4865695194910086236::1721480034::1721480088::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-rocks.obj::Mesh::8826532635322177443::1721480034::1721480088::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-skip-rocks.obj::Mesh::6068202108930516643::1721480034::1721480088::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-skip.obj::Mesh::3094111447649071754::1721480034::1721480088::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-corner-inner.obj::Mesh::331891006388426070::1721480034::1721480088::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-corner.obj::Mesh::958470255105525079::1721480034::1721480087::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-handrail-single.obj::Mesh::9198803745530301652::1721480034::1721480087::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-handrail.obj::Mesh::7818868364897879230::1721480034::1721480087::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-ramp.obj::Mesh::5835666955179286649::1721480034::1721480087::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-small-center.obj::Mesh::1259458311457478524::1721480034::1721480087::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-small-corner-inner.obj::Mesh::6493910286298633856::1721480034::1721480087::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-small-corner.obj::Mesh::483922104436194470::1721480034::1721480087::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-small-edge-handrail.obj::Mesh::4183125905869684749::1721480034::1721480086::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-small-edge.obj::Mesh::8969744197626237228::1721480035::1721480086::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-small-edges-handrail.obj::Mesh::7317183297914473049::1721480035::1721480086::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs-small-edges.obj::Mesh::3302235028592439777::1721480035::1721480086::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-stairs.obj::Mesh::3101350599715504335::1721480035::1721480086::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-structure-barrier-high.obj::Mesh::7235006183487849920::1721480035::1721480086::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-structure-barrier.obj::Mesh::4545511856287815959::1721480035::1721480086::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-structure-panel.obj::Mesh::3035460019071274312::1721480035::1721480085::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-structure.obj::Mesh::1173372162083683774::1721480035::1721480094::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-table-display-planet.obj::Mesh::1837943549047312233::1721480035::1721480094::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-table-display-small.obj::Mesh::1656984488593753472::1721480035::1721480094::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-table-display.obj::Mesh::3464104093814939816::1721480035::1721480094::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-table-inset-small.obj::Mesh::7539083373290841497::1721480035::1721480094::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-table-inset.obj::Mesh::5416446769009306728::1721480035::1721480093::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-table-large.obj::Mesh::3351350050669176215::1721480035::1721480093::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-table.obj::Mesh::8736809809200207629::1721480035::1721480093::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-banner.obj::Mesh::7431289608691221780::1721480035::1721480093::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-corner-banner.obj::Mesh::306516001595696947::1721480035::1721480093::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-corner-round-banner.obj::Mesh::3121572494524656307::1721480035::1721480093::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-corner-round.obj::Mesh::313481887235388597::1721480035::1721480093::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-corner.obj::Mesh::6269878801617760259::1721480035::1721480092::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-detail.obj::Mesh::6573165646044897700::1721480035::1721480092::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-door-banner.obj::Mesh::8769313173538316649::1721480035::1721480092::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-door-center.obj::Mesh::7246430860216929508::1721480035::1721480092::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-door-edge-banner.obj::Mesh::4649195246151678714::1721480035::1721480092::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-door-edge.obj::Mesh::1853945440422905731::1721480035::1721480092::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-door-wide-banner.obj::Mesh::731063425087199110::1721480035::1721480091::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-door-wide.obj::Mesh::7190680794197512132::1721480035::1721480091::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-door.obj::Mesh::5367375925160492270::1721480035::1721480091::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-pillar-banner.obj::Mesh::7626136488703935088::1721480036::1721480091::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-pillar.obj::Mesh::5866796504074728686::1721480036::1721480091::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-switch.obj::Mesh::7033611856935403651::1721480036::1721480091::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-window-banner.obj::Mesh::2744047435231848577::1721480036::1721480090::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-window-frame.obj::Mesh::7004930277040305786::1721480036::1721480090::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-window-shutters.obj::Mesh::1308302530020294823::1721480036::1721480090::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall-window.obj::Mesh::1699707280369884486::1721480036::1721480090::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-wall.obj::Mesh::1025620023005783446::1721480036::1721480080::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
-::res://kenney_building-kit/Models/space/Textures/::1721480032
-colormap.png::CompressedTexture2D::1841738694258233714::1721480032::1721480075::1::::<><>::
-::res://kenney_building-kit/Models/Textures/::1721480020
-variation-a.png::CompressedTexture2D::2429696347700057178::1721480020::1721480075::1::::<><>::
-::res://kenney_building-kit/Models/walls/::1721480039
-barricade-doorway-a.obj::Mesh::5056328209781188206::1721480036::1721480080::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-barricade-doorway-b.obj::Mesh::5532867791918730596::1721480036::1721480080::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-barricade-doorway-c.obj::Mesh::6491212151076710337::1721480036::1721480080::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-barricade-window-a.obj::Mesh::4433956796765449998::1721480036::1721480079::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-barricade-window-b.obj::Mesh::2892219790958230369::1721480036::1721480079::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-barricade-window-c.obj::Mesh::8781527425943525452::1721480036::1721480079::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-border-corner-diagonal.obj::Mesh::9127445903718404889::1721480036::1721480079::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-border-corner-round.obj::Mesh::8817203438972158238::1721480036::1721480079::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-border-corner-small.obj::Mesh::6975286870597089698::1721480036::1721480079::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-border-corner.obj::Mesh::7310594145242243937::1721480036::1721480079::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-border-high-corner-diagonal.obj::Mesh::2258114621979566291::1721480036::1721480078::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-border-high-corner-round.obj::Mesh::8026967409948290727::1721480036::1721480078::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-border-high-corner-small.obj::Mesh::732441464532849354::1721480036::1721480078::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-border-high-corner.obj::Mesh::555991024148440710::1721480036::1721480078::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-border-high.obj::Mesh::2869469193334121428::1721480036::1721480078::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-border.obj::Mesh::5710711479204231105::1721480036::1721480078::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-column-thin.obj::Mesh::6279585380010101882::1721480036::1721480077::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-column-wide.obj::Mesh::6632983208107079204::1721480036::1721480077::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-column.obj::Mesh::2119370926610925999::1721480036::1721480077::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-detail-pipe.obj::Mesh::4654191983082469496::1721480037::1721480077::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-door-rotate-round-a.obj::Mesh::8906357697083040486::1721480037::1721480077::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-door-rotate-round-b.obj::Mesh::1209290983453180537::1721480037::1721480077::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-door-rotate-round-c.obj::Mesh::5238129258232122395::1721480037::1721480077::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-door-rotate-round-d.obj::Mesh::4664036258972519317::1721480037::1721480076::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-door-rotate-square-a.obj::Mesh::1870060868043409218::1721480037::1721480085::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-door-rotate-square-b.obj::Mesh::3277957581089347315::1721480037::1721480085::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-door-rotate-square-c.obj::Mesh::1285603377223822499::1721480037::1721480085::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-door-rotate-square-d.obj::Mesh::9101696999447840252::1721480037::1721480085::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-floor-corner-diagonal.obj::Mesh::4003702921950598808::1721480037::1721480085::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-floor-corner-round.obj::Mesh::8356960667182798048::1721480037::1721480084::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-floor-half.obj::Mesh::3882228540896469754::1721480037::1721480084::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-floor-quarter.obj::Mesh::2225777250394679801::1721480037::1721480084::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-floor.obj::Mesh::7543089273424176317::1721480037::1721480084::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-gutter-vertical-bottom.obj::Mesh::5103025896409610817::1721480037::1721480084::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-gutter-vertical-short.obj::Mesh::4671864824608029301::1721480037::1721480084::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-gutter-vertical-top.obj::Mesh::350722048391750570::1721480037::1721480084::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-gutter-vertical-wall.obj::Mesh::2712337982890749063::1721480037::1721480083::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-gutter-vertical.obj::Mesh::6672779263388548115::1721480037::1721480083::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-plating-detailed-wide.obj::Mesh::450000172575682137::1721480037::1721480083::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-plating-detailed.obj::Mesh::8453808674708604513::1721480037::1721480083::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-plating-wide.obj::Mesh::2997839805299453737::1721480037::1721480083::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-plating.obj::Mesh::142210210984704147::1721480037::1721480083::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-roof-flat-center.obj::Mesh::745226349150797578::1721480037::1721480082::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-roof-flat-corner-inner.obj::Mesh::1000037833833926947::1721480037::1721480082::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-roof-flat-corner.obj::Mesh::1293414168859570065::1721480037::1721480082::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-roof-flat-patch-large.obj::Mesh::7263166277028544340::1721480037::1721480082::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-roof-flat-patch.obj::Mesh::7800870677801773474::1721480038::1721480082::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-roof-flat-side.obj::Mesh::5707838882881894327::1721480038::1721480081::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-roof-flat-square.obj::Mesh::2196686242420291270::1721480038::1721480081::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-stairs-center-short.obj::Mesh::1683836373178153029::1721480038::1721480081::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-stairs-center.obj::Mesh::2042379822831988747::1721480038::1721480081::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-stairs-closed-short.obj::Mesh::5326911627262834051::1721480038::1721480081::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-stairs-closed.obj::Mesh::2465560040917630049::1721480038::1721480107::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-stairs-open-short.obj::Mesh::2707993798027736390::1721480038::1721480107::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-stairs-open.obj::Mesh::2634155370697605483::1721480038::1721480107::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-stairs-sides-short.obj::Mesh::4055124745304542370::1721480038::1721480106::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-stairs-sides.obj::Mesh::4733265905155655131::1721480038::1721480106::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-corner-column-bottom.obj::Mesh::5847422928936842707::1721480038::1721480106::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-corner-column-small-bottom.obj::Mesh::178165458470317949::1721480038::1721480106::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-corner-column-small.obj::Mesh::5582213131869727560::1721480038::1721480106::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-corner-column.obj::Mesh::2182543866100321327::1721480038::1721480106::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-corner-diagonal.obj::Mesh::6541281441391611708::1721480038::1721480106::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-corner-round.obj::Mesh::6332933642967983337::1721480038::1721480105::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-corner.obj::Mesh::6851321412165814556::1721480038::1721480105::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-doorway-round.obj::Mesh::5094898937512526903::1721480038::1721480105::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-doorway-square.obj::Mesh::2657916779262197502::1721480038::1721480105::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-doorway-wide-round.obj::Mesh::3245924168514453838::1721480038::1721480105::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-doorway-wide-square.obj::Mesh::4478849583499187491::1721480038::1721480105::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-half.obj::Mesh::8333953377545307399::1721480038::1721480104::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-low.obj::Mesh::3540398984095004838::1721480038::1721480104::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-window-round-detailed.obj::Mesh::8970532393923100073::1721480038::1721480104::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-window-round.obj::Mesh::7441882241788406541::1721480038::1721480104::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-window-square-detailed.obj::Mesh::3344493763435858336::1721480038::1721480104::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-window-square.obj::Mesh::4811925824709515180::1721480038::1721480104::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-window-wide-round-detailed.obj::Mesh::1995432636954966882::1721480038::1721480104::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-window-wide-round.obj::Mesh::6709062176120824539::1721480039::1721480103::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-window-wide-square-detailed.obj::Mesh::2351968476394181767::1721480039::1721480103::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall-window-wide-square.obj::Mesh::2804549894344246288::1721480039::1721480103::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-wall.obj::Mesh::3192440527319749736::1721480039::1721480103::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
-::res://kenney_building-kit/Models/walls/Textures/::1721480036
-colormap.png::CompressedTexture2D::5529270690983276115::1721480036::1721480075::1::::<><>::
-::res://kenney_building-kit/Previews/::1721480039
-barricade-doorway-a.png::CompressedTexture2D::8575162682827489994::1721480039::1721480075::1::::<><>::
-barricade-doorway-b.png::CompressedTexture2D::565337886703896417::1721480039::1721480075::1::::<><>::
-barricade-doorway-c.png::CompressedTexture2D::852856063090414738::1721480039::1721480075::1::::<><>::
-barricade-window-a.png::CompressedTexture2D::7917198181854272811::1721480039::1721480075::1::::<><>::
-barricade-window-b.png::CompressedTexture2D::8423598158372099460::1721480039::1721480075::1::::<><>::
-barricade-window-c.png::CompressedTexture2D::5471228660333726303::1721480039::1721480075::1::::<><>::
-border-corner-diagonal.png::CompressedTexture2D::2260620083658990242::1721480039::1721480075::1::::<><>::
-border-corner-round.png::CompressedTexture2D::865279146338517960::1721480039::1721480075::1::::<><>::
-border-corner-small.png::CompressedTexture2D::1914874804903434589::1721480039::1721480075::1::::<><>::
-border-corner.png::CompressedTexture2D::8501888976824707088::1721480039::1721480075::1::::<><>::
-border-high-corner-diagonal.png::CompressedTexture2D::8426516277715534411::1721480039::1721480075::1::::<><>::
-border-high-corner-round.png::CompressedTexture2D::9084669842244487798::1721480039::1721480075::1::::<><>::
-border-high-corner-small.png::CompressedTexture2D::4549048954215526066::1721480039::1721480075::1::::<><>::
-border-high-corner.png::CompressedTexture2D::8597932980944818658::1721480039::1721480075::1::::<><>::
-border-high.png::CompressedTexture2D::4793767600182446645::1721480039::1721480075::1::::<><>::
-border.png::CompressedTexture2D::1553788690503297831::1721480039::1721480075::1::::<><>::
-column-thin.png::CompressedTexture2D::154380744215817465::1721480039::1721480075::1::::<><>::
-column-wide.png::CompressedTexture2D::9175251071204881227::1721480039::1721480075::1::::<><>::
-column.png::CompressedTexture2D::1968376891140467499::1721480039::1721480074::1::::<><>::
-detail-pipe.png::CompressedTexture2D::4561636779043994504::1721480039::1721480074::1::::<><>::
-door-rotate-round-a.png::CompressedTexture2D::8694900633705083650::1721480039::1721480074::1::::<><>::
-door-rotate-round-b.png::CompressedTexture2D::1150713765459957586::1721480039::1721480074::1::::<><>::
-door-rotate-round-c.png::CompressedTexture2D::4632613455037212291::1721480039::1721480074::1::::<><>::
-door-rotate-round-d.png::CompressedTexture2D::6521050819175036589::1721480039::1721480074::1::::<><>::
-door-rotate-square-a.png::CompressedTexture2D::6851911535710132675::1721480039::1721480074::1::::<><>::
-door-rotate-square-b.png::CompressedTexture2D::1730702529561359436::1721480039::1721480074::1::::<><>::
-door-rotate-square-c.png::CompressedTexture2D::2720044724525682095::1721480039::1721480074::1::::<><>::
-door-rotate-square-d.png::CompressedTexture2D::6288125587157072930::1721480039::1721480074::1::::<><>::
-floor-corner-diagonal.png::CompressedTexture2D::8164283670606736492::1721480039::1721480074::1::::<><>::
-floor-corner-round.png::CompressedTexture2D::17388319037587249::1721480039::1721480074::1::::<><>::
-floor-half.png::CompressedTexture2D::8982633676942009619::1721480039::1721480074::1::::<><>::
-floor-quarter.png::CompressedTexture2D::479380728126171148::1721480039::1721480074::1::::<><>::
-floor.png::CompressedTexture2D::5811898268953395239::1721480039::1721480074::1::::<><>::
-gutter-vertical-bottom.png::CompressedTexture2D::2212596707959649134::1721480039::1721480074::1::::<><>::
-gutter-vertical-short.png::CompressedTexture2D::5797678974002694478::1721480039::1721480075::1::::<><>::
-gutter-vertical-top.png::CompressedTexture2D::4461224262140773778::1721480039::1721480075::1::::<><>::
-gutter-vertical-wall.png::CompressedTexture2D::4685603662187471677::1721480039::1721480075::1::::<><>::
-gutter-vertical.png::CompressedTexture2D::8573060969773626553::1721480039::1721480075::1::::<><>::
-plating-detailed-wide.png::CompressedTexture2D::2095411818451160732::1721480039::1721480075::1::::<><>::
-plating-detailed.png::CompressedTexture2D::3218251435953966542::1721480039::1721480075::1::::<><>::
-plating-wide.png::CompressedTexture2D::5255577229926675910::1721480039::1721480076::1::::<><>::
-plating.png::CompressedTexture2D::2182313608434284779::1721480039::1721480076::1::::<><>::
-roof-flat-center.png::CompressedTexture2D::5174010288762422166::1721480039::1721480076::1::::<><>::
-roof-flat-corner-inner.png::CompressedTexture2D::2906231372230975344::1721480039::1721480076::1::::<><>::
-roof-flat-corner.png::CompressedTexture2D::4912859564725593719::1721480039::1721480076::1::::<><>::
-roof-flat-patch-large.png::CompressedTexture2D::3207617644313044690::1721480039::1721480076::1::::<><>::
-roof-flat-patch.png::CompressedTexture2D::1998114793404956951::1721480039::1721480076::1::::<><>::
-roof-flat-side.png::CompressedTexture2D::1622446366242095696::1721480039::1721480076::1::::<><>::
-roof-flat-square.png::CompressedTexture2D::9194349133971690174::1721480039::1721480076::1::::<><>::
-stairs-center-short.png::CompressedTexture2D::4468998771476166771::1721480039::1721480076::1::::<><>::
-stairs-center.png::CompressedTexture2D::6810539861928366144::1721480039::1721480076::1::::<><>::
-stairs-closed-short.png::CompressedTexture2D::714588684599086591::1721480039::1721480076::1::::<><>::
-stairs-closed.png::CompressedTexture2D::1462211712879902510::1721480039::1721480076::1::::<><>::
-stairs-open-short.png::CompressedTexture2D::1139635485853561188::1721480039::1721480076::1::::<><>::
-stairs-open.png::CompressedTexture2D::5060899023606595368::1721480039::1721480076::1::::<><>::
-stairs-sides-short.png::CompressedTexture2D::3352068908862450291::1721480039::1721480076::1::::<><>::
-stairs-sides.png::CompressedTexture2D::5539425408625541226::1721480039::1721480076::1::::<><>::
-wall-corner-column-bottom.png::CompressedTexture2D::6767107648772898378::1721480039::1721480076::1::::<><>::
-wall-corner-column-small-bottom.png::CompressedTexture2D::2269742261445075624::1721480039::1721480076::1::::<><>::
-wall-corner-column-small.png::CompressedTexture2D::154161433713052389::1721480039::1721480076::1::::<><>::
-wall-corner-column.png::CompressedTexture2D::4929612471193683269::1721480039::1721480076::1::::<><>::
-wall-corner-diagonal.png::CompressedTexture2D::5643330599938547010::1721480039::1721480076::1::::<><>::
-wall-corner-round.png::CompressedTexture2D::2387486456186487081::1721480039::1721480076::1::::<><>::
-wall-corner.png::CompressedTexture2D::3026780951078352489::1721480039::1721480075::1::::<><>::
-wall-doorway-round.png::CompressedTexture2D::1199178576520130955::1721480039::1721480075::1::::<><>::
-wall-doorway-square.png::CompressedTexture2D::2499169991349549692::1721480039::1721480075::1::::<><>::
-wall-doorway-wide-round.png::CompressedTexture2D::2407109353038625921::1721480039::1721480075::1::::<><>::
-wall-doorway-wide-square.png::CompressedTexture2D::5651379125801743136::1721480039::1721480075::1::::<><>::
-wall-half.png::CompressedTexture2D::3695764501564928914::1721480039::1721480075::1::::<><>::
-wall-low.png::CompressedTexture2D::518134084830905585::1721480039::1721480075::1::::<><>::
-wall-window-round-detailed.png::CompressedTexture2D::6554873068759946514::1721480039::1721480075::1::::<><>::
-wall-window-round.png::CompressedTexture2D::2691511218974138070::1721480039::1721480075::1::::<><>::
-wall-window-square-detailed.png::CompressedTexture2D::2678798461445286696::1721480039::1721480075::1::::<><>::
-wall-window-square.png::CompressedTexture2D::294954989213693979::1721480039::1721480075::1::::<><>::
-wall-window-wide-round-detailed.png::CompressedTexture2D::3409093965560743481::1721480039::1721480076::1::::<><>::
-wall-window-wide-round.png::CompressedTexture2D::418583742230253665::1721480039::1721480075::1::::<><>::
-wall-window-wide-square-detailed.png::CompressedTexture2D::2201318087095387933::1721480039::1721480076::1::::<><>::
-wall-window-wide-square.png::CompressedTexture2D::7815520223643915434::1721480039::1721480076::1::::<><>::
-wall.png::CompressedTexture2D::4025241803519285448::1721480039::1721480076::1::::<><>::
-::res://kenney_building-kit/test textures/::1721480039
-pattern_37.png::CompressedTexture2D::452415321570864127::1721480039::1721480076::1::::<><>::
-pattern_59.png::CompressedTexture2D::6257177480510323681::1721480039::1721480076::1::::<><>::
-::res://Scenes/::1721480020
-level.tscn::PackedScene::4494328265167162316::1721480020::0::1::::<><>::
-node_3d.tscn::PackedScene::5217695224484507261::1721480020::0::1::::<><>::uid://mwf5o8u5f6p::::res://Scenes/Characters/enemy/enemy2.tscn<>uid://dbqlj1i10kns3::::res://kenney_building-kit/Models/walls/roof-flat-patch-large.obj<>uid://jrcqmh7y7xkl::::res://Scenes/Characters/Player/player.tscn<>uid://blqpa8ukxcxy3::::res://kenney_building-kit/Models/walls/wall.obj<>uid://b3dpa8a8mw15k::::res://kenney_building-kit/Models/charactermodels/wheelchair-deluxe.obj<>uid://c4u3i6v5ogub1::::res://kenney_building-kit/Models/walls/wall-corner.obj<>uid://dee40go78xg76::::res://Scenes/Characters/dummy.tscn
-::res://Scenes/Characters/::1721480020
-dummy.tscn::PackedScene::7450080712551829055::1721480020::0::1::::<><>::res://Scripts/Characters/Dummy.cs
-::res://Scenes/Characters/enemy/::1721480020
-enemy2.cs::CSharpScript::-1::1721480020::0::1::::<><>::
-enemy2.tscn::PackedScene::5425015643653413739::1721480020::0::1::::<><>::
-::res://Scenes/Characters/Player/::1721480020
-bullet.tscn::PackedScene::3961590304686292518::1721480019::0::1::::<><>::res://Scripts/Characters/Player/bullet.cs
-lightning.gd::GDScript::-1::1721480020::0::1::::<>Area3D<>::
-lightning.tscn::PackedScene::8966252009231191292::1721480020::0::1::::<><>::
-player.tscn::PackedScene::666944663830441851::1721480020::0::1::::<><>::res://Scripts/Characters/Player/CharacterBody3D.cs<>uid://bwpa2woxsc7xi::::res://Scenes/Characters/Player/bullet.tscn<>uid://d00k4i4jcylxc::::res://Scenes/Characters/Player/lightning.tscn
-::res://Scenes/Mainmenu/::1721480020
-Menu.gd::GDScript::-1::1721480020::0::1::::<>Control<>::
-Menu.tscn::PackedScene::545027570650141822::1721480020::0::1::::<><>::res://Scenes/Mainmenu/Menu.gd
-::res://Scripts/::1721480020
-::res://Scripts/Characters/::1721480020
-Dummy.cs::CSharpScript::-1::1721480020::0::1::::<><>::
-::res://Scripts/Characters/Player/::1721480020
-bullet.cs::CSharpScript::-1::1721480020::0::1::::<><>::
-CharacterBody3D.cs::CSharpScript::-1::1721480020::0::1::::<><>::
-lightningArea.cs::CSharpScript::-1::1721480020::0::1::::<><>::
+::res://::1721483256
+icon.svg::CompressedTexture2D::742923282493816400::1721449181::1721449204::1::::<><>::
+README.md::TextFile::-1::1721449181::0::1::::<><>::
+::res://kenney_building-kit/::1721482661
+License.txt::TextFile::-1::1721449181::0::1::::<><>::
+Preview (Variation A).png::CompressedTexture2D::2637966193591351520::1721449182::1721449204::1::::<><>::
+Preview.png::CompressedTexture2D::5835151943577293758::1721449182::1721449204::1::::<><>::
+Sample.png::CompressedTexture2D::5548287143121706031::1721449182::1721449204::1::::<><>::
+::res://kenney_building-kit/Models/::1721449181
+::res://kenney_building-kit/Models/charactermodels/::1721449216
+aid-cane-blind.obj::Mesh::3427119411035371026::1721449181::1721449214::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+aid-cane-low-vision.obj::Mesh::936800124427801297::1721449181::1721449214::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+aid-cane.obj::Mesh::3428491758450414992::1721449181::1721449214::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+aid-crutch.obj::Mesh::1777113802729274031::1721449181::1721449214::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+aid-defibrillator-green.obj::Mesh::7995433418598580832::1721449181::1721449214::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+aid-defibrillator-red.obj::Mesh::6885588267771457800::1721449181::1721449214::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+aid-glasses.obj::Mesh::8845306814398382988::1721449181::1721449214::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+aid-mask.obj::Mesh::8595291100549490758::1721449181::1721449214::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+aid-sunglasses.obj::Mesh::6420680467207895173::1721449181::1721449214::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+aid_hearing.obj::Mesh::9033230952949099383::1721449181::1721449214::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-female-a.obj::Mesh::4328722103218394062::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-female-b.obj::Mesh::6672929465950555441::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-female-c.obj::Mesh::8123175844555700089::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-female-d.obj::Mesh::9006491727896754531::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-female-e.obj::Mesh::3143408782696919626::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-female-f.obj::Mesh::3729940848179223738::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-male-a.obj::Mesh::3998048046641734335::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-male-b.obj::Mesh::4121218100879189283::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-male-c.obj::Mesh::6937903725980915875::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-male-d.obj::Mesh::157137098613263187::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-male-e.obj::Mesh::2910856690425665228::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+character-male-f.obj::Mesh::6183849660537427104::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+wheelchair-deluxe.obj::Mesh::4358813928498539646::1721449181::1721449215::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+wheelchair-power-deluxe.obj::Mesh::5010075696719048241::1721449181::1721449216::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+wheelchair-power.obj::Mesh::7088368934338286450::1721449181::1721449216::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+wheelchair.obj::Mesh::8455924276856378538::1721449181::1721449216::1::::<><>::uid://t4m44fpv4y8t::::res://kenney_building-kit/Models/charactermodels/Textures/colormap.png
+::res://kenney_building-kit/Models/charactermodels/Textures/::1721449204
+colormap.png::CompressedTexture2D::1394236907538727725::1721449181::1721449204::1::::<><>::
+::res://kenney_building-kit/Models/future/::1721449230
+arrow-basic.obj::Mesh::2867666394066978380::1721449181::1721449216::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+arrow.obj::Mesh::5118509901417874101::1721449181::1721449216::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+box-large.obj::Mesh::3825049014415897896::1721449181::1721449212::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+box-long.obj::Mesh::4262315628129168807::1721449181::1721449212::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+box-small.obj::Mesh::2536708807909007147::1721449181::1721449212::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+box-wide.obj::Mesh::3497948580153233754::1721449181::1721449212::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-bars-fence.obj::Mesh::4983621495423169763::1721449181::1721449212::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-bars-high.obj::Mesh::798894190344384029::1721449181::1721449212::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-bars-sides.obj::Mesh::8923955298058088351::1721449181::1721449212::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-bars-stripe-fence.obj::Mesh::4296385971541895075::1721449181::1721449212::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-bars-stripe-high.obj::Mesh::3792535510987364099::1721449181::1721449212::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-bars-stripe-side.obj::Mesh::7734246974122695275::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-bars-stripe.obj::Mesh::4878872449656419031::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-bars.obj::Mesh::5296701708084078146::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-long-sides.obj::Mesh::7832804945172987549::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-long-stripe-sides.obj::Mesh::412943186618641846::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-long-stripe.obj::Mesh::4170371723705516443::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-long.obj::Mesh::5800605896229775857::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-sides.obj::Mesh::1985819954051050223::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-stripe-sides.obj::Mesh::6767773030382599072::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor-stripe.obj::Mesh::1155754498879491376::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+conveyor.obj::Mesh::9075442624651540454::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-bar.obj::Mesh::7570807900485600440::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-corner.obj::Mesh::1208398321352305274::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-hopper.obj::Mesh::4468693589040771422::1721449181::1721449213::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-stripe-bar.obj::Mesh::4600155034340242096::1721449181::1721449214::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-stripe-corner.obj::Mesh::9199165214540445546::1721449181::1721449214::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-stripe-hopper.obj::Mesh::6826754132126515171::1721449181::1721449214::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-stripe-top.obj::Mesh::114893230670274748::1721449181::1721449214::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-stripe-window.obj::Mesh::8369706296554531635::1721449181::1721449218::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-stripe.obj::Mesh::3188341481821089346::1721449181::1721449218::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-top.obj::Mesh::1703642105311884264::1721449181::1721449218::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover-window.obj::Mesh::1380652054377470177::1721449181::1721449218::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+cover.obj::Mesh::3140128798466569344::1721449181::1721449218::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+door-wide-closed.obj::Mesh::8813392435990556751::1721449181::1721449218::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+door-wide-half.obj::Mesh::7342625436011336874::1721449181::1721449218::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+door-wide-open.obj::Mesh::1756226667845817581::1721449181::1721449218::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+door.obj::Mesh::5714685547632377246::1721449181::1721449218::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+floor-large.obj::Mesh::2165961748186839873::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+floor.obj::Mesh::4854182746048948532::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+robot-arm-a.obj::Mesh::6178944242520537336::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+robot-arm-b.obj::Mesh::4488701553263469915::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+scanner-high.obj::Mesh::2311414563919506417::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+scanner-low.obj::Mesh::7026654369484118145::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-corner-inner.obj::Mesh::6424628542648229526::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-corner-outer.obj::Mesh::5988979702640414608::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-doorway-wide.obj::Mesh::8150218862524104293::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-doorway.obj::Mesh::1028528826166572189::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-high.obj::Mesh::1705836471920958738::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-medium.obj::Mesh::2121436523235994771::1721449181::1721449219::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-short.obj::Mesh::3300501764909708543::1721449181::1721449220::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-tall.obj::Mesh::8848325382096772956::1721449181::1721449220::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-wall.obj::Mesh::7707082235094850569::1721449181::1721449220::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-window-wide.obj::Mesh::8044558682579273194::1721449181::1721449220::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-window.obj::Mesh::2829427906693139644::1721449181::1721449220::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-yellow-high.obj::Mesh::3080896514031820461::1721449181::1721449205::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-yellow-medium.obj::Mesh::1455030801616112691::1721449181::1721449206::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-yellow-short.obj::Mesh::3699145116416382982::1721449181::1721449230::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+structure-yellow-tall.obj::Mesh::418969293428824525::1721449181::1721449228::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+top-large.obj::Mesh::3980657130174270643::1721449181::1721449227::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+top.obj::Mesh::3648751389697995027::1721449181::1721449227::1::::<><>::uid://wsi3qxgvrtli::::res://kenney_building-kit/Models/future/Textures/colormap.png
+::res://kenney_building-kit/Models/future/Textures/::1721449204
+colormap.png::CompressedTexture2D::1581849973986727202::1721449181::1721449204::1::::<><>::
+::res://kenney_building-kit/Models/guns/::1721449229
+ammo_machinegun.obj::Mesh::4532378184090449343::1721449181::1721449227::1::::<><>::
+ammo_machinegunLauncher.obj::Mesh::396797844992332361::1721449181::1721449227::1::::<><>::
+ammo_pistol.obj::Mesh::3330786511205807949::1721449181::1721449226::1::::<><>::
+ammo_rocket.obj::Mesh::8241261144988053819::1721449181::1721449226::1::::<><>::
+ammo_rocketModern.obj::Mesh::3376188179367177545::1721449181::1721449226::1::::<><>::
+ammo_shotgun.obj::Mesh::346842068810650894::1721449181::1721449226::1::::<><>::
+ammo_sniper.obj::Mesh::7197606683741059253::1721449181::1721449226::1::::<><>::
+ammo_uzi.obj::Mesh::2513488689456463053::1721449181::1721449226::1::::<><>::
+flamethrower.obj::Mesh::2764403723122177347::1721449181::1721449226::1::::<><>::
+flamethrowerHandle.obj::Mesh::3229889381164467385::1721449181::1721449226::1::::<><>::
+grenade.obj::Mesh::5375630032891919472::1721449181::1721449226::1::::<><>::
+grenadeFlash.obj::Mesh::6810732602648732959::1721449181::1721449226::1::::<><>::
+grenadeSmoke.obj::Mesh::861244431310035238::1721449181::1721449225::1::::<><>::
+grenade_vintage.obj::Mesh::5876976843067417377::1721449181::1721449225::1::::<><>::
+knifeRound_sharp.obj::Mesh::1124490021590600781::1721449181::1721449225::1::::<><>::
+knifeRound_smooth.obj::Mesh::5520926352411666121::1721449181::1721449225::1::::<><>::
+knife_sharp.obj::Mesh::7710633347637332096::1721449181::1721449225::1::::<><>::
+knife_smooth.obj::Mesh::7207705050809091297::1721449181::1721449225::1::::<><>::
+machinegun.obj::Mesh::8107199992227648504::1721449181::1721449225::1::::<><>::
+machinegunLauncher.obj::Mesh::3005552944239755628::1721449181::1721449225::1::::<><>::
+pistol.obj::Mesh::8962308507583368481::1721449181::1721449225::1::::<><>::
+pistolSilencer.obj::Mesh::4473978550720549971::1721449181::1721449225::1::::<><>::
+rocketlauncher.obj::Mesh::8802732831291069597::1721449181::1721449224::1::::<><>::
+rocketlauncherModern.obj::Mesh::1230958921254898060::1721449181::1721449224::1::::<><>::
+rocketlauncherModernRotating.obj::Mesh::6559859940012525719::1721449181::1721449224::1::::<><>::
+rocketlauncherSide.obj::Mesh::5829781466759832244::1721449181::1721449224::1::::<><>::
+shotgun.obj::Mesh::6125541996490298971::1721449181::1721449229::1::::<><>::
+shotgunShort.obj::Mesh::3014947731463311034::1721449181::1721449229::1::::<><>::
+sniper.obj::Mesh::2292176410337544318::1721449181::1721449229::1::::<><>::
+sniperCamo.obj::Mesh::3002603354691291532::1721449181::1721449229::1::::<><>::
+uzi.obj::Mesh::7820629762684243940::1721449181::1721449229::1::::<><>::
+uziGold.obj::Mesh::7068135455650902391::1721449181::1721449229::1::::<><>::
+uziGoldLong.obj::Mesh::1598487799401352258::1721449181::1721449229::1::::<><>::
+uziGoldLongSilencer.obj::Mesh::5126348140623097487::1721449181::1721449228::1::::<><>::
+uziGoldSilencer.obj::Mesh::620379121184937991::1721449181::1721449228::1::::<><>::
+uziLong.obj::Mesh::30607954299444933::1721449181::1721449228::1::::<><>::
+uziLongSilencer.obj::Mesh::5851179449696017659::1721449181::1721449228::1::::<><>::
+uziSilencer.obj::Mesh::8270588408509351303::1721449181::1721449228::1::::<><>::
+::res://kenney_building-kit/Models/outdoor pack/::1721449237
+arrow.obj::Mesh::3456008878851272974::1721449181::1721449228::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+arrows.obj::Mesh::8884620108897807946::1721449181::1721449228::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+barrel.obj::Mesh::2031357728901095322::1721449181::1721449228::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-corner-low.obj::Mesh::2512958645163653202::1721449181::1721449228::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-corner-overhang-low.obj::Mesh::2230118301142060702::1721449181::1721449228::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-corner-overhang.obj::Mesh::1691270889747361624::1721449181::1721449227::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-corner.obj::Mesh::1907609772266317667::1721449181::1721449227::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-curve-half.obj::Mesh::6220164594260212313::1721449181::1721449227::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-curve-low.obj::Mesh::8188308217657832771::1721449181::1721449227::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-curve.obj::Mesh::2205969806957480379::1721449181::1721449227::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-edge.obj::Mesh::6408939081799865918::1721449181::1721449227::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-hexagon.obj::Mesh::8518042270796876470::1721449181::1721449227::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-large-slope-narrow.obj::Mesh::7015209218615978591::1721449181::1721449227::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-large-slope-steep-narrow.obj::Mesh::1815088439503859770::1721449181::1721449227::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-large-slope-steep.obj::Mesh::6576408076025893630::1721449181::1721449227::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-large-slope.obj::Mesh::821856440108814677::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-large-tall.obj::Mesh::2766066771947530026::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-large.obj::Mesh::3039900653828906497::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-long.obj::Mesh::2487599562128842090::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-low-hexagon.obj::Mesh::2648087771743594295::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-low-large.obj::Mesh::5122603681396770951::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-low-long.obj::Mesh::1935788006544335054::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-low-narrow.obj::Mesh::1225650003989974321::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-low.obj::Mesh::6971486800498583134::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-narrow.obj::Mesh::6321662612416509127::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-corner.obj::Mesh::9161679704126439600::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-edge.obj::Mesh::7488985558716765945::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-hexagon.obj::Mesh::7508670470809215619::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-large-slope-narrow.obj::Mesh::7156431835823613023::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-large-slope-steep-narrow.obj::Mesh::6295052043992041574::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-large-slope-steep.obj::Mesh::7814343635573750158::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-large-slope.obj::Mesh::9133356905363828289::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-large-tall.obj::Mesh::4898480189342681455::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-large.obj::Mesh::3845360155026567147::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-long.obj::Mesh::626443239955118563::1721449181::1721449221::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-low-hexagon.obj::Mesh::8536609265866831039::1721449181::1721449220::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-low-large.obj::Mesh::398083129561385935::1721449181::1721449220::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-low-long.obj::Mesh::4724215325247572373::1721449181::1721449220::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-low-narrow.obj::Mesh::395844713082827503::1721449181::1721449220::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-low.obj::Mesh::8710631017547049577::1721449181::1721449220::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass-overhang-narrow.obj::Mesh::403270073782969172::1721449181::1721449220::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-grass.obj::Mesh::5663843075847479666::1721449181::1721449220::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-moving-blue.obj::Mesh::1449199837145044240::1721449181::1721449224::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-moving-large.obj::Mesh::2301589602293500638::1721449181::1721449224::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-moving.obj::Mesh::6765549600415903453::1721449181::1721449224::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-corner-low.obj::Mesh::3337904357883102027::1721449181::1721449224::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-corner-overhang-low.obj::Mesh::4740947006859273711::1721449181::1721449224::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-corner-overhang.obj::Mesh::8600858967903302068::1721449181::1721449224::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-corner.obj::Mesh::8948508296311664597::1721449181::1721449224::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-curve-half.obj::Mesh::2128764766891146371::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-curve-low.obj::Mesh::4762577755142869766::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-curve.obj::Mesh::4397194426130103048::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-edge.obj::Mesh::2517351984127774446::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-hexagon.obj::Mesh::8663613720429706711::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-large-slope-narrow.obj::Mesh::7593397697736257598::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-large-slope-steep-narrow.obj::Mesh::4831742307854273929::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-large-slope-steep.obj::Mesh::588983295085499072::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-large-slope.obj::Mesh::3315387214738354701::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-large-tall.obj::Mesh::5296270959550987979::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-large.obj::Mesh::47994952248715660::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-long.obj::Mesh::7845564744097297982::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-low-hexagon.obj::Mesh::501288793688619024::1721449181::1721449223::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-low-large.obj::Mesh::4172348970600505065::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-low-long.obj::Mesh::1984453508499243942::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-low-narrow.obj::Mesh::5481676441357046392::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-low.obj::Mesh::1583687960633828512::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-narrow.obj::Mesh::4222961911414100636::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-corner.obj::Mesh::7291352185657140250::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-edge.obj::Mesh::8957023248262266632::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-hexagon.obj::Mesh::2793020211894304421::1721449181::1721449222::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-large-slope-narrow.obj::Mesh::8859250206404069280::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-large-slope-steep-narrow.obj::Mesh::1815313254135505062::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-large-slope-steep.obj::Mesh::7679016134656152096::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-large-slope.obj::Mesh::7949166377327858281::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-large-tall.obj::Mesh::6000906600371303852::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-large.obj::Mesh::3978215101314584671::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-long.obj::Mesh::5098566708513441946::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-low-hexagon.obj::Mesh::7963822058991822568::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-low-large.obj::Mesh::6109363938511255958::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-low-long.obj::Mesh::7588658189804292062::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-low-narrow.obj::Mesh::4473299085135995147::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-low.obj::Mesh::8539928019294340172::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow-overhang-narrow.obj::Mesh::101946887873016565::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+block-snow.obj::Mesh::3349246343654759550::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+bomb.obj::Mesh::6962740214143613339::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+button-round.obj::Mesh::5846095910955827896::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+button-square.obj::Mesh::4062992414822222632::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+chest.obj::Mesh::2597396775413519325::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+coin-bronze.obj::Mesh::8127389214614402561::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+coin-gold.obj::Mesh::7245735774300520686::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+coin-silver.obj::Mesh::1046305905429980725::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+crate-item-strong.obj::Mesh::4251164646096236070::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+crate-item.obj::Mesh::4156277186092453460::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+crate-strong.obj::Mesh::6407596519489060589::1721449181::1721449234::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+crate.obj::Mesh::3850152602175601171::1721449181::1721449233::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+door-large-open.obj::Mesh::4853213965777850321::1721449181::1721449233::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+door-open.obj::Mesh::7440451076905788228::1721449181::1721449233::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+door-rotate-large.obj::Mesh::3849762012024151569::1721449181::1721449233::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+door-rotate.obj::Mesh::7514269964709929755::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+fence-broken.obj::Mesh::127893746455091142::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+fence-corner-curved.obj::Mesh::2131782240246255659::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+fence-corner.obj::Mesh::8020799972421100378::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+fence-low-broken.obj::Mesh::2030792471173029654::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+fence-low-corner-curved.obj::Mesh::5436201048744709919::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+fence-low-corner.obj::Mesh::3185886128704557792::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+fence-low-straight.obj::Mesh::8435508798765381327::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+fence-straight.obj::Mesh::5902591157071458426::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+flag.obj::Mesh::6711061359695284699::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+flowers-tall.obj::Mesh::305042901792161080::1721449181::1721449237::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+flowers.obj::Mesh::8460513844129476159::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+grass.obj::Mesh::5312152287735406243::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+heart.obj::Mesh::6574854194916376360::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+hedge-corner.obj::Mesh::575521654716529955::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+hedge.obj::Mesh::1239998141959346801::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+jewel.obj::Mesh::8329410280975674328::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+key.obj::Mesh::5553025217456522404::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+ladder-broken.obj::Mesh::8030737847285260868::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+ladder-long.obj::Mesh::7890293321841399529::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+ladder.obj::Mesh::8944745853207893190::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+lever.obj::Mesh::8431242320954293958::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+lock.obj::Mesh::2352460316076019045::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+mushrooms.obj::Mesh::3385115630055101859::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+plant.obj::Mesh::4319981804479605490::1721449181::1721449236::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+platform-fortified.obj::Mesh::4803734305160978527::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+platform-overhang.obj::Mesh::513837461982464507::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+platform-ramp.obj::Mesh::5107441638081174939::1721449181::1721449235::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+platform.obj::Mesh::4880097311341976329::1721449181::1721449231::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+poles.obj::Mesh::7845270524782496461::1721449181::1721449231::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+rocks.obj::Mesh::8428107107406436195::1721449181::1721449231::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+saw.obj::Mesh::1078429044185258877::1721449181::1721449231::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+sign.obj::Mesh::7661549182845245241::1721449181::1721449231::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+spike-block-wide.obj::Mesh::9061097790629270635::1721449181::1721449231::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+spike-block.obj::Mesh::4723315694109427108::1721449181::1721449231::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+stones.obj::Mesh::8300943387225163036::1721449181::1721449231::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+trap-spikes-large.obj::Mesh::8149604664388385699::1721449181::1721449231::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+trap-spikes.obj::Mesh::571763548902558410::1721449181::1721449231::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+tree-pine-small.obj::Mesh::4485796905939329267::1721449181::1721449230::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+tree-pine-snow-small.obj::Mesh::3348693487358786188::1721449181::1721449230::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+tree-pine-snow.obj::Mesh::3296012572205644660::1721449181::1721449230::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+tree-pine.obj::Mesh::5847093510866274108::1721449181::1721449230::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+tree-snow.obj::Mesh::7109123068506250349::1721449181::1721449230::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+tree.obj::Mesh::7166304959972865288::1721449181::1721449230::1::::<><>::uid://bpe7h3xsiw6gr::::res://kenney_building-kit/Models/outdoor pack/Textures/colormap.png
+::res://kenney_building-kit/Models/outdoor pack/Textures/::1721449203
+colormap.png::CompressedTexture2D::3449467800619421705::1721449181::1721449203::1::::<><>::
+::res://kenney_building-kit/Models/space/::1721449233
+balcony-floor-center.obj::Mesh::6289740661957355457::1721449181::1721449230::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+balcony-floor-corner.obj::Mesh::794041420686007086::1721449181::1721449230::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+balcony-floor.obj::Mesh::7228537579318204019::1721449181::1721449230::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+balcony-rail-center.obj::Mesh::787409297207322753::1721449181::1721449230::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+balcony-rail-corner.obj::Mesh::4825240779828009334::1721449181::1721449230::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+balcony-rail.obj::Mesh::615069434957659563::1721449181::1721449230::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+bed-double-cover.obj::Mesh::6648850209329484586::1721449181::1721449229::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+bed-double.obj::Mesh::3772409609459568201::1721449181::1721449229::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+bed-single-cover.obj::Mesh::4616346378432347041::1721449181::1721449229::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+bed-single.obj::Mesh::542528768300786591::1721449181::1721449229::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+chair-armrest-headrest.obj::Mesh::4558071412042900180::1721449181::1721449229::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+chair-armrest.obj::Mesh::7629787682698258771::1721449181::1721449233::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+chair-cushion-headrest.obj::Mesh::3706342618491072084::1721449181::1721449233::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+chair-cushion.obj::Mesh::2828793531351769738::1721449181::1721449233::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+chair-headrest.obj::Mesh::4656860947394710414::1721449181::1721449233::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+chair.obj::Mesh::8772724383057888363::1721449181::1721449233::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+computer-screen.obj::Mesh::2512914895214899813::1721449181::1721449233::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+computer-system.obj::Mesh::8162323282477691105::1721449181::1721449233::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+computer-wide.obj::Mesh::5598640059768334364::1721449181::1721449233::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+computer.obj::Mesh::8469451038791542234::1721449181::1721449233::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+container-flat-open.obj::Mesh::7439796887359478205::1721449181::1721449233::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+container-flat.obj::Mesh::8099788986531059036::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+container-tall.obj::Mesh::5867816575551161925::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+container-wide.obj::Mesh::3594667062494870097::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+container.obj::Mesh::8296852011286619927::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+display-wall-wide.obj::Mesh::5203667591160199445::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+display-wall.obj::Mesh::5756948826005150708::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+door-double-closed.obj::Mesh::6698325236549917355::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+door-double-half.obj::Mesh::5966521049734495213::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+door-double.obj::Mesh::2270707495074116234::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+door-single-closed.obj::Mesh::7540801480015253313::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+door-single-half.obj::Mesh::1740760217692560845::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+door-single.obj::Mesh::6948776494908397883::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+floor-corner.obj::Mesh::3864944006196270065::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+floor-detail.obj::Mesh::2124852487510070585::1721449181::1721449232::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+floor-panel-corner.obj::Mesh::1119946305252892510::1721449181::1721449231::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+floor-panel-end.obj::Mesh::6398809339250088433::1721449181::1721449231::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+floor-panel-straight.obj::Mesh::7184291242234415414::1721449181::1721449231::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+floor-panel.obj::Mesh::1682793660468864624::1721449181::1721449231::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+floor.obj::Mesh::6800114843057452537::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+pipe-bend-diagonal.obj::Mesh::9054240694067829804::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+pipe-bend.obj::Mesh::6306318695202126476::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+pipe-end-colored.obj::Mesh::7094284267498980386::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+pipe-end.obj::Mesh::6809578462448011251::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+pipe-ring-colored.obj::Mesh::8506682472800318987::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+pipe-ring.obj::Mesh::7785707188933172788::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+pipe.obj::Mesh::5715357804161979452::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+rail-narrow.obj::Mesh::2211500246393617770::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+rail.obj::Mesh::4865695194910086236::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+rocks.obj::Mesh::8826532635322177443::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+skip-rocks.obj::Mesh::6068202108930516643::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+skip.obj::Mesh::3094111447649071754::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-corner-inner.obj::Mesh::331891006388426070::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-corner.obj::Mesh::958470255105525079::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-handrail-single.obj::Mesh::9198803745530301652::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-handrail.obj::Mesh::7818868364897879230::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-ramp.obj::Mesh::5835666955179286649::1721449181::1721449209::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-small-center.obj::Mesh::1259458311457478524::1721449181::1721449208::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-small-corner-inner.obj::Mesh::6493910286298633856::1721449181::1721449208::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-small-corner.obj::Mesh::483922104436194470::1721449181::1721449208::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-small-edge-handrail.obj::Mesh::4183125905869684749::1721449181::1721449208::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-small-edge.obj::Mesh::8969744197626237228::1721449181::1721449208::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-small-edges-handrail.obj::Mesh::7317183297914473049::1721449181::1721449208::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs-small-edges.obj::Mesh::3302235028592439777::1721449181::1721449208::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+stairs.obj::Mesh::3101350599715504335::1721449181::1721449208::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+structure-barrier-high.obj::Mesh::7235006183487849920::1721449181::1721449208::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+structure-barrier.obj::Mesh::4545511856287815959::1721449181::1721449212::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+structure-panel.obj::Mesh::3035460019071274312::1721449181::1721449212::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+structure.obj::Mesh::1173372162083683774::1721449181::1721449212::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+table-display-planet.obj::Mesh::1837943549047312233::1721449181::1721449212::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+table-display-small.obj::Mesh::1656984488593753472::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+table-display.obj::Mesh::3464104093814939816::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+table-inset-small.obj::Mesh::7539083373290841497::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+table-inset.obj::Mesh::5416446769009306728::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+table-large.obj::Mesh::3351350050669176215::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+table.obj::Mesh::8736809809200207629::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-banner.obj::Mesh::7431289608691221780::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-corner-banner.obj::Mesh::306516001595696947::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-corner-round-banner.obj::Mesh::3121572494524656307::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-corner-round.obj::Mesh::313481887235388597::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-corner.obj::Mesh::6269878801617760259::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-detail.obj::Mesh::6573165646044897700::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-door-banner.obj::Mesh::8769313173538316649::1721449181::1721449211::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-door-center.obj::Mesh::7246430860216929508::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-door-edge-banner.obj::Mesh::4649195246151678714::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-door-edge.obj::Mesh::1853945440422905731::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-door-wide-banner.obj::Mesh::731063425087199110::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-door-wide.obj::Mesh::7190680794197512132::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-door.obj::Mesh::5367375925160492270::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-pillar-banner.obj::Mesh::7626136488703935088::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-pillar.obj::Mesh::5866796504074728686::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-switch.obj::Mesh::7033611856935403651::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-window-banner.obj::Mesh::2744047435231848577::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-window-frame.obj::Mesh::7004930277040305786::1721449181::1721449210::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-window-shutters.obj::Mesh::1308302530020294823::1721449181::1721449206::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall-window.obj::Mesh::1699707280369884486::1721449181::1721449206::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+wall.obj::Mesh::1025620023005783446::1721449181::1721449206::1::::<><>::uid://1iffxke2qguc::::res://kenney_building-kit/Models/space/Textures/colormap.png
+::res://kenney_building-kit/Models/space/Textures/::1721449203
+colormap.png::CompressedTexture2D::1841738694258233714::1721449181::1721449203::1::::<><>::
+::res://kenney_building-kit/Models/Textures/::1721449203
+variation-a.png::CompressedTexture2D::2429696347700057178::1721449181::1721449203::1::::<><>::
+::res://kenney_building-kit/Models/walls/::1721449220
+barricade-doorway-a.obj::Mesh::5056328209781188206::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+barricade-doorway-b.obj::Mesh::5532867791918730596::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+barricade-doorway-c.obj::Mesh::6491212151076710337::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+barricade-window-a.obj::Mesh::4433956796765449998::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+barricade-window-b.obj::Mesh::2892219790958230369::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+barricade-window-c.obj::Mesh::8781527425943525452::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+border-corner-diagonal.obj::Mesh::9127445903718404889::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+border-corner-round.obj::Mesh::8817203438972158238::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+border-corner-small.obj::Mesh::6975286870597089698::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+border-corner.obj::Mesh::7310594145242243937::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+border-high-corner-diagonal.obj::Mesh::2258114621979566291::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+border-high-corner-round.obj::Mesh::8026967409948290727::1721449181::1721449205::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+border-high-corner-small.obj::Mesh::732441464532849354::1721449181::1721449204::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+border-high-corner.obj::Mesh::555991024148440710::1721449181::1721449204::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+border-high.obj::Mesh::2869469193334121428::1721449181::1721449204::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+border.obj::Mesh::5710711479204231105::1721449181::1721449204::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+column-thin.obj::Mesh::6279585380010101882::1721449181::1721449204::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+column-wide.obj::Mesh::6632983208107079204::1721449181::1721449204::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+column.obj::Mesh::2119370926610925999::1721449181::1721449204::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+detail-pipe.obj::Mesh::4654191983082469496::1721449181::1721449204::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+door-rotate-round-a.obj::Mesh::8906357697083040486::1721449181::1721449204::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+door-rotate-round-b.obj::Mesh::1209290983453180537::1721449181::1721449204::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+door-rotate-round-c.obj::Mesh::5238129258232122395::1721449181::1721449208::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+door-rotate-round-d.obj::Mesh::4664036258972519317::1721449181::1721449208::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+door-rotate-square-a.obj::Mesh::1870060868043409218::1721449181::1721449208::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+door-rotate-square-b.obj::Mesh::3277957581089347315::1721449181::1721449208::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+door-rotate-square-c.obj::Mesh::1285603377223822499::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+door-rotate-square-d.obj::Mesh::9101696999447840252::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+floor-corner-diagonal.obj::Mesh::4003702921950598808::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+floor-corner-round.obj::Mesh::8356960667182798048::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+floor-half.obj::Mesh::3882228540896469754::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+floor-quarter.obj::Mesh::2225777250394679801::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+floor.obj::Mesh::7543089273424176317::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+gutter-vertical-bottom.obj::Mesh::5103025896409610817::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+gutter-vertical-short.obj::Mesh::4671864824608029301::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+gutter-vertical-top.obj::Mesh::350722048391750570::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+gutter-vertical-wall.obj::Mesh::2712337982890749063::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+gutter-vertical.obj::Mesh::6672779263388548115::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+plating-detailed-wide.obj::Mesh::450000172575682137::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+plating-detailed.obj::Mesh::8453808674708604513::1721449181::1721449207::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+plating-wide.obj::Mesh::2997839805299453737::1721449181::1721449206::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+plating.obj::Mesh::142210210984704147::1721449181::1721449206::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+roof-flat-center.obj::Mesh::745226349150797578::1721449181::1721449206::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+roof-flat-corner-inner.obj::Mesh::1000037833833926947::1721449181::1721449206::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+roof-flat-corner.obj::Mesh::1293414168859570065::1721449181::1721449206::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+roof-flat-patch-large.obj::Mesh::7263166277028544340::1721449181::1721449206::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+roof-flat-patch.obj::Mesh::7800870677801773474::1721449181::1721449206::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+roof-flat-side.obj::Mesh::5707838882881894327::1721449181::1721449206::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+roof-flat-square.obj::Mesh::2196686242420291270::1721449181::1721449206::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+stairs-center-short.obj::Mesh::1683836373178153029::1721449181::1721449206::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+stairs-center.obj::Mesh::2042379822831988747::1721449181::1721449218::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+stairs-closed-short.obj::Mesh::5326911627262834051::1721449181::1721449218::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+stairs-closed.obj::Mesh::2465560040917630049::1721449181::1721449218::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+stairs-open-short.obj::Mesh::2707993798027736390::1721449181::1721449218::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+stairs-open.obj::Mesh::2634155370697605483::1721449181::1721449218::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+stairs-sides-short.obj::Mesh::4055124745304542370::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+stairs-sides.obj::Mesh::4733265905155655131::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-corner-column-bottom.obj::Mesh::5847422928936842707::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-corner-column-small-bottom.obj::Mesh::178165458470317949::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-corner-column-small.obj::Mesh::5582213131869727560::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-corner-column.obj::Mesh::2182543866100321327::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-corner-diagonal.obj::Mesh::6541281441391611708::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-corner-round.obj::Mesh::6332933642967983337::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-corner.obj::Mesh::6851321412165814556::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-doorway-round.obj::Mesh::5094898937512526903::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-doorway-square.obj::Mesh::2657916779262197502::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-doorway-wide-round.obj::Mesh::3245924168514453838::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-doorway-wide-square.obj::Mesh::4478849583499187491::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-half.obj::Mesh::8333953377545307399::1721449181::1721449217::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-low.obj::Mesh::3540398984095004838::1721449181::1721449216::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-window-round-detailed.obj::Mesh::8970532393923100073::1721449181::1721449216::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-window-round.obj::Mesh::7441882241788406541::1721449181::1721449216::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-window-square-detailed.obj::Mesh::3344493763435858336::1721449181::1721449216::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-window-square.obj::Mesh::4811925824709515180::1721449181::1721449216::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-window-wide-round-detailed.obj::Mesh::1995432636954966882::1721449181::1721449216::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-window-wide-round.obj::Mesh::6709062176120824539::1721449181::1721449216::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-window-wide-square-detailed.obj::Mesh::2351968476394181767::1721449181::1721449216::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall-window-wide-square.obj::Mesh::2804549894344246288::1721449181::1721449220::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+wall.obj::Mesh::3192440527319749736::1721449182::1721449220::1::::<><>::uid://ck1ojsgtlft7p::::res://kenney_building-kit/Models/walls/Textures/colormap.png
+::res://kenney_building-kit/Models/walls/Textures/::1721449203
+colormap.png::CompressedTexture2D::5529270690983276115::1721449181::1721449203::1::::<><>::
+::res://kenney_building-kit/Previews/::1721449204
+barricade-doorway-a.png::CompressedTexture2D::8575162682827489994::1721449182::1721449203::1::::<><>::
+barricade-doorway-b.png::CompressedTexture2D::565337886703896417::1721449182::1721449203::1::::<><>::
+barricade-doorway-c.png::CompressedTexture2D::852856063090414738::1721449182::1721449203::1::::<><>::
+barricade-window-a.png::CompressedTexture2D::7917198181854272811::1721449182::1721449203::1::::<><>::
+barricade-window-b.png::CompressedTexture2D::8423598158372099460::1721449182::1721449203::1::::<><>::
+barricade-window-c.png::CompressedTexture2D::5471228660333726303::1721449182::1721449203::1::::<><>::
+border-corner-diagonal.png::CompressedTexture2D::2260620083658990242::1721449182::1721449203::1::::<><>::
+border-corner-round.png::CompressedTexture2D::865279146338517960::1721449182::1721449203::1::::<><>::
+border-corner-small.png::CompressedTexture2D::1914874804903434589::1721449182::1721449203::1::::<><>::
+border-corner.png::CompressedTexture2D::8501888976824707088::1721449182::1721449203::1::::<><>::
+border-high-corner-diagonal.png::CompressedTexture2D::8426516277715534411::1721449182::1721449203::1::::<><>::
+border-high-corner-round.png::CompressedTexture2D::9084669842244487798::1721449182::1721449203::1::::<><>::
+border-high-corner-small.png::CompressedTexture2D::4549048954215526066::1721449182::1721449203::1::::<><>::
+border-high-corner.png::CompressedTexture2D::8597932980944818658::1721449182::1721449203::1::::<><>::
+border-high.png::CompressedTexture2D::4793767600182446645::1721449182::1721449203::1::::<><>::
+border.png::CompressedTexture2D::1553788690503297831::1721449182::1721449203::1::::<><>::
+column-thin.png::CompressedTexture2D::154380744215817465::1721449182::1721449203::1::::<><>::
+column-wide.png::CompressedTexture2D::9175251071204881227::1721449182::1721449203::1::::<><>::
+column.png::CompressedTexture2D::1968376891140467499::1721449182::1721449203::1::::<><>::
+detail-pipe.png::CompressedTexture2D::4561636779043994504::1721449182::1721449203::1::::<><>::
+door-rotate-round-a.png::CompressedTexture2D::8694900633705083650::1721449182::1721449203::1::::<><>::
+door-rotate-round-b.png::CompressedTexture2D::1150713765459957586::1721449182::1721449203::1::::<><>::
+door-rotate-round-c.png::CompressedTexture2D::4632613455037212291::1721449182::1721449203::1::::<><>::
+door-rotate-round-d.png::CompressedTexture2D::6521050819175036589::1721449182::1721449203::1::::<><>::
+door-rotate-square-a.png::CompressedTexture2D::6851911535710132675::1721449182::1721449203::1::::<><>::
+door-rotate-square-b.png::CompressedTexture2D::1730702529561359436::1721449182::1721449203::1::::<><>::
+door-rotate-square-c.png::CompressedTexture2D::2720044724525682095::1721449182::1721449203::1::::<><>::
+door-rotate-square-d.png::CompressedTexture2D::6288125587157072930::1721449182::1721449203::1::::<><>::
+floor-corner-diagonal.png::CompressedTexture2D::8164283670606736492::1721449182::1721449203::1::::<><>::
+floor-corner-round.png::CompressedTexture2D::17388319037587249::1721449182::1721449203::1::::<><>::
+floor-half.png::CompressedTexture2D::8982633676942009619::1721449182::1721449203::1::::<><>::
+floor-quarter.png::CompressedTexture2D::479380728126171148::1721449182::1721449203::1::::<><>::
+floor.png::CompressedTexture2D::5811898268953395239::1721449182::1721449203::1::::<><>::
+gutter-vertical-bottom.png::CompressedTexture2D::2212596707959649134::1721449182::1721449203::1::::<><>::
+gutter-vertical-short.png::CompressedTexture2D::5797678974002694478::1721449182::1721449203::1::::<><>::
+gutter-vertical-top.png::CompressedTexture2D::4461224262140773778::1721449182::1721449203::1::::<><>::
+gutter-vertical-wall.png::CompressedTexture2D::4685603662187471677::1721449182::1721449203::1::::<><>::
+gutter-vertical.png::CompressedTexture2D::8573060969773626553::1721449182::1721449203::1::::<><>::
+plating-detailed-wide.png::CompressedTexture2D::2095411818451160732::1721449182::1721449203::1::::<><>::
+plating-detailed.png::CompressedTexture2D::3218251435953966542::1721449182::1721449204::1::::<><>::
+plating-wide.png::CompressedTexture2D::5255577229926675910::1721449182::1721449204::1::::<><>::
+plating.png::CompressedTexture2D::2182313608434284779::1721449182::1721449204::1::::<><>::
+roof-flat-center.png::CompressedTexture2D::5174010288762422166::1721449182::1721449204::1::::<><>::
+roof-flat-corner-inner.png::CompressedTexture2D::2906231372230975344::1721449182::1721449204::1::::<><>::
+roof-flat-corner.png::CompressedTexture2D::4912859564725593719::1721449182::1721449204::1::::<><>::
+roof-flat-patch-large.png::CompressedTexture2D::3207617644313044690::1721449182::1721449204::1::::<><>::
+roof-flat-patch.png::CompressedTexture2D::1998114793404956951::1721449182::1721449204::1::::<><>::
+roof-flat-side.png::CompressedTexture2D::1622446366242095696::1721449182::1721449204::1::::<><>::
+roof-flat-square.png::CompressedTexture2D::9194349133971690174::1721449182::1721449204::1::::<><>::
+stairs-center-short.png::CompressedTexture2D::4468998771476166771::1721449182::1721449204::1::::<><>::
+stairs-center.png::CompressedTexture2D::6810539861928366144::1721449182::1721449204::1::::<><>::
+stairs-closed-short.png::CompressedTexture2D::714588684599086591::1721449182::1721449204::1::::<><>::
+stairs-closed.png::CompressedTexture2D::1462211712879902510::1721449182::1721449204::1::::<><>::
+stairs-open-short.png::CompressedTexture2D::1139635485853561188::1721449182::1721449204::1::::<><>::
+stairs-open.png::CompressedTexture2D::5060899023606595368::1721449182::1721449204::1::::<><>::
+stairs-sides-short.png::CompressedTexture2D::3352068908862450291::1721449182::1721449204::1::::<><>::
+stairs-sides.png::CompressedTexture2D::5539425408625541226::1721449182::1721449204::1::::<><>::
+wall-corner-column-bottom.png::CompressedTexture2D::6767107648772898378::1721449182::1721449204::1::::<><>::
+wall-corner-column-small-bottom.png::CompressedTexture2D::2269742261445075624::1721449182::1721449204::1::::<><>::
+wall-corner-column-small.png::CompressedTexture2D::154161433713052389::1721449182::1721449204::1::::<><>::
+wall-corner-column.png::CompressedTexture2D::4929612471193683269::1721449182::1721449204::1::::<><>::
+wall-corner-diagonal.png::CompressedTexture2D::5643330599938547010::1721449182::1721449203::1::::<><>::
+wall-corner-round.png::CompressedTexture2D::2387486456186487081::1721449182::1721449203::1::::<><>::
+wall-corner.png::CompressedTexture2D::3026780951078352489::1721449182::1721449203::1::::<><>::
+wall-doorway-round.png::CompressedTexture2D::1199178576520130955::1721449182::1721449203::1::::<><>::
+wall-doorway-square.png::CompressedTexture2D::2499169991349549692::1721449182::1721449203::1::::<><>::
+wall-doorway-wide-round.png::CompressedTexture2D::2407109353038625921::1721449182::1721449203::1::::<><>::
+wall-doorway-wide-square.png::CompressedTexture2D::5651379125801743136::1721449182::1721449203::1::::<><>::
+wall-half.png::CompressedTexture2D::3695764501564928914::1721449182::1721449203::1::::<><>::
+wall-low.png::CompressedTexture2D::518134084830905585::1721449182::1721449203::1::::<><>::
+wall-window-round-detailed.png::CompressedTexture2D::6554873068759946514::1721449182::1721449203::1::::<><>::
+wall-window-round.png::CompressedTexture2D::2691511218974138070::1721449182::1721449203::1::::<><>::
+wall-window-square-detailed.png::CompressedTexture2D::2678798461445286696::1721449182::1721449203::1::::<><>::
+wall-window-square.png::CompressedTexture2D::294954989213693979::1721449182::1721449203::1::::<><>::
+wall-window-wide-round-detailed.png::CompressedTexture2D::3409093965560743481::1721449182::1721449203::1::::<><>::
+wall-window-wide-round.png::CompressedTexture2D::418583742230253665::1721449182::1721449204::1::::<><>::
+wall-window-wide-square-detailed.png::CompressedTexture2D::2201318087095387933::1721449182::1721449204::1::::<><>::
+wall-window-wide-square.png::CompressedTexture2D::7815520223643915434::1721449182::1721449204::1::::<><>::
+wall.png::CompressedTexture2D::4025241803519285448::1721449182::1721449204::1::::<><>::
+::res://kenney_building-kit/test textures/::1721482666
+pattern_37.png::CompressedTexture2D::452415321570864127::1721482661::1721482666::1::::<><>::
+pattern_59.png::CompressedTexture2D::6257177480510323681::1721482661::1721482666::1::::<><>::
+::res://Scenes/::1721482677
+level.tscn::PackedScene::4494328265167162316::1721449181::0::1::::<><>::
+node_3d.tscn::PackedScene::5217695224484507261::1721482677::0::1::::<><>::uid://cjj6hkugckq48::::res://Scenes/Characters/enemy/enemy2.tscn<>uid://dbqlj1i10kns3::::res://kenney_building-kit/Models/walls/roof-flat-patch-large.obj<>uid://jrcqmh7y7xkl::::res://Scenes/Characters/Player/player.tscn<>uid://gpfhjw10ay3x::::res://kenney_building-kit/test textures/pattern_37.png<>uid://b3dpa8a8mw15k::::res://kenney_building-kit/Models/charactermodels/wheelchair-deluxe.obj<>uid://c4u3i6v5ogub1::::res://kenney_building-kit/Models/walls/wall-corner.obj<>uid://cpuoc1pfpi2np::::res://kenney_building-kit/Models/space/container-tall.obj<>uid://dnnulupc2gpng::::res://kenney_building-kit/Models/space/container-flat.obj<>uid://dqhb68fcxjvpn::::res://kenney_building-kit/Models/space/container.obj<>uid://bnbvlfxyya4i4::::res://kenney_building-kit/Models/space/stairs-small-edges.obj<>uid://cxj5gcmliidyr::::res://kenney_building-kit/Models/outdoor pack/crate-strong.obj<>uid://ou22uuitbdco::::res://kenney_building-kit/Models/space/wall.obj<>uid://cvlf8t6l7j1yd::::res://kenney_building-kit/Models/space/wall-corner.obj<>uid://cip85rjvtyvf7::::res://kenney_building-kit/Models/space/wall-door.obj<>uid://dx0vx5uajcyt4::::res://kenney_building-kit/Models/space/rocks.obj<>uid://cnotdw4ic13me::::res://kenney_building-kit/Models/space/pipe.obj<>uid://di6ppvv0e52bw::::res://kenney_building-kit/Models/space/pipe-ring.obj<>uid://dqjblbqecln05::::res://kenney_building-kit/Models/outdoor pack/stones.obj<>uid://cv33fatecwtfg::::res://kenney_building-kit/Models/space/pipe-bend.obj<>uid://bna11t3f7pv5x::::res://kenney_building-kit/Models/future/structure-short.obj<>uid://54hcraqm0s8p::::res://kenney_building-kit/Models/future/floor-large.obj<>uid://cubekrd06vir5::::res://kenney_building-kit/Models/future/robot-arm-a.obj
+::res://Scenes/Characters/::1721482661
+dummy.tscn::PackedScene::-1::1721482661::0::1::::<><>::
+::res://Scenes/Characters/enemy/::1721482676
+enemy2.cs::CSharpScript::-1::1721449278::0::1::::<>CharacterBody3D<>::
+enemy2.tscn::PackedScene::5425015643653413739::1721482676::0::1::::<><>::
+::res://Scenes/Characters/Player/::1721482676
+bullet.tscn::PackedScene::-1::1721482661::0::1::::<><>::
+lightning.gd::GDScript::-1::1721482661::0::1::::<>Area3D<>::
+lightning.tscn::PackedScene::-1::1721482661::0::1::::<><>::
+player.tscn::PackedScene::666944663830441851::1721482676::0::1::::<><>::res://Scripts/Characters/Player/CharacterBody3D.cs
+::res://Scenes/Mainmenu/::1721482676
+Menu.gd::GDScript::-1::1721482661::0::1::::<>Control<>::
+Menu.tscn::PackedScene::545027570650141822::1721482676::0::1::::<><>::res://Scenes/Mainmenu/Menu.gd
+::res://Scripts/::1721449181
+::res://Scripts/Characters/::1721482661
+Dummy.cs::CSharpScript::-1::1721482661::0::1::::<>CharacterBody3D<>::
+::res://Scripts/Characters/Player/::1721482676
+bullet.cs::CSharpScript::-1::1721482661::0::1::::<>RigidBody3D<>::
+CharacterBody3D.cs::CSharpScript::-1::1721482676::0::1::::<>CharacterBody3D<>::
+lightningArea.cs::CSharpScript::-1::1721482661::0::1::::<>RigidBody3D<>::

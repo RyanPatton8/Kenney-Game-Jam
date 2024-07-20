@@ -1,3 +1,17 @@
-[gd_scene format=3 uid="uid://cjj6hkugckq48"]
+[gd_scene load_steps=4 format=3 uid="uid://cjj6hkugckq48"]
 
-[node name="Enemy2" type="Node3D"]
+[ext_resource type="ArrayMesh" uid="uid://c531i4nugolg2" path="res://kenney_building-kit/Models/charactermodels/character-male-c.obj" id="1_a6pso"]
+[ext_resource type="Script" path="res://Scenes/Characters/enemy/enemy2.gd" id="1_fga1g"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_7rxao"]
+size = Vector3(0.709045, 0.778442, 1)
+
+[node name="CharacterBody3D" type="CharacterBody3D"]
+script = ExtResource("1_fga1g")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = ExtResource("1_a6pso")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00576782, 0.388977, 0)
+shape = SubResource("BoxShape3D_7rxao")

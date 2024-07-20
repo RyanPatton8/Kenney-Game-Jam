@@ -9,7 +9,7 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	private List<RigidBody3D> bullets = new List<RigidBody3D>();
 
 	[Export] public float MouseSensitivity = 0.1f;
-    [Export] public float MoveSpeed = 5.0f;
+	[Export] public float MoveSpeed = 5.0f;
 	[Export] public Node3D neck {get; private set;}
 	[Export] public Camera3D camera  {get; private set;}
 
@@ -21,12 +21,12 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	// Get the gravity from the project settings to be synced with RigidBody nodes.
 	public float gravity = ProjectSettings.GetSetting("physics/3d/default_gravity").AsSingle();
 
-    public override void _Ready()
-    {
-        Input.MouseMode = Input.MouseModeEnum.Captured;
-    }
+	public override void _Ready()
+	{
+		Input.MouseMode = Input.MouseModeEnum.Captured;
+	}
 
-    public override void _PhysicsProcess(double delta)
+	public override void _PhysicsProcess(double delta)
 	{
 		HandleAttacks();
 		Move(delta);
@@ -62,9 +62,9 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 		Velocity = velocity;
 		MoveAndSlide();
 	}
-    public override void _Input(InputEvent @event)
-    {
-        if(@event is InputEventMouseMotion)
+	public override void _Input(InputEvent @event)
+	{
+		if(@event is InputEventMouseMotion)
 		{
 			InputEventMouseMotion mouseMotion = @event as InputEventMouseMotion;
 			neck.RotateY(-mouseMotion.Relative.X * MouseSensitivity);
@@ -75,7 +75,7 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 			camera.Rotation = cameraRot;
 
 		}
-    }
+	}
 
 	public void HandleAttacks()
 	{
