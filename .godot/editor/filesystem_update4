@@ -3,6 +3,7 @@ res://Scenes/Characters/enemy/enemy2.tscn
 res://Scenes/Characters/Player/player.tscn
 res://Scenes/node_3d.tscn
 res://Scripts/Characters/Dummy.cs
-res://Scripts/Characters/Player/lightningArea.cs
 res://Scripts/Characters/Player/bullet.cs
 res://Scripts/Characters/Player/CharacterBody3D.cs
+res://Scripts/Characters/Player/lightningArea.cs
+res://Scenes/Characters/Player/bullet.tscn

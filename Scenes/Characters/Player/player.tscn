@@ -19,6 +19,7 @@ lightning = ExtResource("3_vgaty")
 attackDuration = NodePath("AttackDuration")
 shootCoolDown = NodePath("ShootCoolDown")
 shockCoolDown = NodePath("ShockCoolDown")
+maxBulletCount = 10
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
 shape = SubResource("CapsuleShape3D_0dpf0")

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public partial class CharacterBody3D : Godot.CharacterBody3D
 {
 	public const float Speed = 5f;
-	public const float JumpVelocity = 4.5f;
+	public const float JumpVelocity = 3.5f;
 	private List<RigidBody3D> bullets = new List<RigidBody3D>();
 	private List<Area3D> lightningBolts = new List<Area3D>();
 
@@ -21,6 +21,9 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	[Export] public Timer shootCoolDown {get; private set;}
 	[Export] public Timer shockCoolDown {get; private set;}
 
+	[Export] public int maxBulletCount {get; private set;}
+
+	private int bulletCount = 0;
 	private bool canShoot = true;
 	private bool canShock = true;
 
@@ -61,11 +64,13 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 		{
 			velocity.X = direction.X * Speed;
 			velocity.Z = direction.Z * Speed;
+			camera.Fov = Mathf.Lerp(camera.Fov, 85, 5 * (float)delta);
 		}
 		else
 		{
 			velocity.X = Mathf.MoveToward(Velocity.X, 0, Speed);
 			velocity.Z = Mathf.MoveToward(Velocity.Z, 0, Speed);
+			camera.Fov = Mathf.Lerp(camera.Fov, 75, 5 * (float)delta);
 		}
 
 		Velocity = velocity;
@@ -88,15 +93,17 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 
 	public void HandleAttacks()
 	{
-		if (Input.IsActionJustPressed("fire") && canShoot)
+		if (Input.IsActionJustPressed("fire") && canShoot && bulletCount < maxBulletCount)
 		{
 			Fire();
+			bulletCount++;
 			canShoot = false;
 			shootCoolDown.Start();
 		}
 		else if (Input.IsActionJustPressed("shock") && canShock)
 		{
 			Shock();
+			bulletCount = 0;
 			canShock = false;
 			canShoot = false;
 			shockCoolDown.Start();
@@ -118,8 +125,6 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	{
 		for(int i = 0; i < bullets.Count - 1; i++)
 		{
-			//Instantiate Lightning
-			GD.Print(bullets.Count);
 			Area3D instance = (Area3D)lightning.Instantiate();
 			lightningBolts.Add(instance);
 
