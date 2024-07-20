@@ -17,13 +17,11 @@ func _process(delta):
 	var next_nav_point = nav_agent.get_next_path_position()
 	velocity = (next_nav_point - global_transform.origin).normalized() * SPEED
 	
-	velocity = velocity.move_toward(velocity, .25)
-	
+	nav_agent.set_velocity(velocity)
 	look_at(Vector3(player.global_position.x, player.global_position.y, player.global_position.z), Vector3.UP)
-	
+
+
+
+func _on_navigation_agent_3d_velocity_computed(safe_velocity):
+	velocity = velocity.move_toward(safe_velocity, .25)
 	move_and_slide()
-	
-
-
-func _on_navigation_agent_3d_target_reached():
-	print ("in range")

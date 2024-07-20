@@ -22,5 +22,8 @@ shape = SubResource("BoxShape3D_f7xbw")
 [node name="NavigationAgent3D" type="NavigationAgent3D" parent="."]
 target_desired_distance = 2.0
 path_height_offset = 0.15
+avoidance_enabled = true
+debug_enabled = true
 
 [connection signal="target_reached" from="NavigationAgent3D" to="." method="_on_navigation_agent_3d_target_reached"]
+[connection signal="velocity_computed" from="NavigationAgent3D" to="." method="_on_navigation_agent_3d_velocity_computed"]

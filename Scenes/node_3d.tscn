@@ -185,6 +185,16 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.31239, 7.75431)
 motion_mode = 1
 player_path = NodePath("../Player")
 
+[node name="Mob3" parent="." instance=ExtResource("1_8x86y")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.47758, 3.31239, 7.75431)
+motion_mode = 1
+player_path = NodePath("../Player")
+
+[node name="Mob2" parent="." instance=ExtResource("1_8x86y")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.57094, 3.31239, 7.75431)
+motion_mode = 1
+player_path = NodePath("../Player")
+
 [node name="NavigationRegion3D" type="NavigationRegion3D" parent="."]
 navigation_mesh = SubResource("NavigationMesh_lphri")
 
