@@ -1,5 +1,8 @@
-Node3D
 Node
+Button
+Label
+VBoxContainer
+Node3D
 Timer
 CollisionShape3D
 MeshInstance3D
