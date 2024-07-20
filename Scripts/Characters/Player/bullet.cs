@@ -21,7 +21,6 @@ public partial class bullet : RigidBody3D
         Basis GlobalBasis = this.GlobalTransform.Basis;
 
 		this.Freeze = true;
-		GD.Print("Freeze");
 		this.GetParent().RemoveChild(this);
         otherBody.AddChild(this);
 

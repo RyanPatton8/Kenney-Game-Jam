@@ -13,10 +13,7 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	[Export] public float MoveSpeed = 5.0f;
 	[Export] public Node3D neck {get; private set;}
 	[Export] public Camera3D camera  {get; private set;}
-
 	[Export] public Marker3D attackPos {get; private set;}
-	[Export] public Node bulletPouch {get; private set;}
-
 	[Export] public PackedScene bullet {get; private set;}
 	[Export] public PackedScene lightning {get; private set;}
 
@@ -147,7 +144,6 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 
 	private void StopAttack()
 	{
-		GD.Print("Deleting");
 		foreach(RigidBody3D bullet in bullets)
 		{
 			bullet.QueueFree();	
