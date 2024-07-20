@@ -43,7 +43,7 @@ shape = SubResource("ConcavePolygonShape3D_hu315")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 5.69585, 0)
 
 [node name="Wheelchair-deluxe" type="MeshInstance3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.345007, 2.54573, -7.15945)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.345007, 10.6512, 0.88572)
 mesh = ExtResource("3_o7eaj")
 
 [node name="StaticBody3D" type="StaticBody3D" parent="Wheelchair-deluxe"]
@@ -117,3 +117,8 @@ skeleton = NodePath("../..")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="buildingnode/Wall-corner4/StaticBody3D"]
 shape = SubResource("ConcavePolygonShape3D_u8jc2")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="buildingnode"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.08165e-12, 17, 2.08165e-12)
+light_energy = 11.909
+omni_range = 32.878
