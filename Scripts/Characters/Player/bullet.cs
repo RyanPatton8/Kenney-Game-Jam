@@ -11,6 +11,8 @@ public partial class bullet : RigidBody3D
 
 	public void Hit(Node body)
 	{
+		if(body is Player)
+			return;
 		CallDeferred(nameof(Stick), body);
 	}
 	public void Stick(Node otherBody)
