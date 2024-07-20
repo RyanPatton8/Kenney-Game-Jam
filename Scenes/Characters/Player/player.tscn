@@ -8,7 +8,7 @@
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_t8vw4"]
 
-[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("neck", "camera", "attackPos", "attackDuration")]
+[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("neck", "camera", "attackPos")]
 script = ExtResource("1_8oxv8")
 MouseSensitivity = 0.001
 neck = NodePath("Node3D")
@@ -16,7 +16,6 @@ camera = NodePath("Node3D/Camera3D")
 attackPos = NodePath("Node3D/Camera3D/AttackPosition")
 bullet = ExtResource("2_3w4aa")
 lightning = ExtResource("3_vgaty")
-attackDuration = NodePath("AttackDuration")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
 shape = SubResource("CapsuleShape3D_0dpf0")
