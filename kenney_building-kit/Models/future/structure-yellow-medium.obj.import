@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://uy3e6kcqule6"
+path="res://.godot/imported/structure-yellow-medium.obj-b9c8e646315de92607dc1dedaf267860.mesh"
+
+[deps]
+
+files=["res://.godot/imported/structure-yellow-medium.obj-b9c8e646315de92607dc1dedaf267860.mesh"]
+
+source_file="res://kenney_building-kit/Models/future/structure-yellow-medium.obj"
+dest_files=["res://.godot/imported/structure-yellow-medium.obj-b9c8e646315de92607dc1dedaf267860.mesh", "res://.godot/imported/structure-yellow-medium.obj-b9c8e646315de92607dc1dedaf267860.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

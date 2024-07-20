@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://hk53fc2wugs6"
+path="res://.godot/imported/platform-overhang.obj-d12c69a6692e70878b614c30b4e3981d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/platform-overhang.obj-d12c69a6692e70878b614c30b4e3981d.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/platform-overhang.obj"
+dest_files=["res://.godot/imported/platform-overhang.obj-d12c69a6692e70878b614c30b4e3981d.mesh", "res://.godot/imported/platform-overhang.obj-d12c69a6692e70878b614c30b4e3981d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

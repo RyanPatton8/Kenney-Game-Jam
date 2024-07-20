@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://2tye7mpqn0ba"
+path="res://.godot/imported/block-grass-low-long.obj-ef80961fd71dd7c94ce6dbeed8ea74fb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-grass-low-long.obj-ef80961fd71dd7c94ce6dbeed8ea74fb.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/block-grass-low-long.obj"
+dest_files=["res://.godot/imported/block-grass-low-long.obj-ef80961fd71dd7c94ce6dbeed8ea74fb.mesh", "res://.godot/imported/block-grass-low-long.obj-ef80961fd71dd7c94ce6dbeed8ea74fb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

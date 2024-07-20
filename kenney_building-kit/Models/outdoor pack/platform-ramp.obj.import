@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ce1c22d40kylf"
+path="res://.godot/imported/platform-ramp.obj-9dfa45678335bce5f876d3938b39e962.mesh"
+
+[deps]
+
+files=["res://.godot/imported/platform-ramp.obj-9dfa45678335bce5f876d3938b39e962.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/platform-ramp.obj"
+dest_files=["res://.godot/imported/platform-ramp.obj-9dfa45678335bce5f876d3938b39e962.mesh", "res://.godot/imported/platform-ramp.obj-9dfa45678335bce5f876d3938b39e962.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cev1wb8veqesg"
+path="res://.godot/imported/block-snow-overhang-long.obj-3e68a5d75058bf09be948a1f71aa37e1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-snow-overhang-long.obj-3e68a5d75058bf09be948a1f71aa37e1.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/block-snow-overhang-long.obj"
+dest_files=["res://.godot/imported/block-snow-overhang-long.obj-3e68a5d75058bf09be948a1f71aa37e1.mesh", "res://.godot/imported/block-snow-overhang-long.obj-3e68a5d75058bf09be948a1f71aa37e1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

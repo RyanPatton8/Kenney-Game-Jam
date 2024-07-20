@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cld6rqhhjip8w"
+path="res://.godot/imported/key.obj-ee63f1c037e73924d0c02139a5621bb3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/key.obj-ee63f1c037e73924d0c02139a5621bb3.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/key.obj"
+dest_files=["res://.godot/imported/key.obj-ee63f1c037e73924d0c02139a5621bb3.mesh", "res://.godot/imported/key.obj-ee63f1c037e73924d0c02139a5621bb3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

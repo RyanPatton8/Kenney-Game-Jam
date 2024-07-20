@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://wtfdynggx71u"
+path="res://.godot/imported/block-snow-low.obj-b98bf13922ff1b71981ae100b54d6ee1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-snow-low.obj-b98bf13922ff1b71981ae100b54d6ee1.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/block-snow-low.obj"
+dest_files=["res://.godot/imported/block-snow-low.obj-b98bf13922ff1b71981ae100b54d6ee1.mesh", "res://.godot/imported/block-snow-low.obj-b98bf13922ff1b71981ae100b54d6ee1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://buq487f6vibhg"
+path="res://.godot/imported/box-large.obj-7ff94500f9630efe31ae4714c124adda.mesh"
+
+[deps]
+
+files=["res://.godot/imported/box-large.obj-7ff94500f9630efe31ae4714c124adda.mesh"]
+
+source_file="res://kenney_building-kit/Models/future/box-large.obj"
+dest_files=["res://.godot/imported/box-large.obj-7ff94500f9630efe31ae4714c124adda.mesh", "res://.godot/imported/box-large.obj-7ff94500f9630efe31ae4714c124adda.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

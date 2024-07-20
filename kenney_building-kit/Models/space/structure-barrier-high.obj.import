@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dbcxq28nt6qlc"
+path="res://.godot/imported/structure-barrier-high.obj-41c17ad4c73b8f6b4e3164f90ca2ddd7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/structure-barrier-high.obj-41c17ad4c73b8f6b4e3164f90ca2ddd7.mesh"]
+
+source_file="res://kenney_building-kit/Models/space/structure-barrier-high.obj"
+dest_files=["res://.godot/imported/structure-barrier-high.obj-41c17ad4c73b8f6b4e3164f90ca2ddd7.mesh", "res://.godot/imported/structure-barrier-high.obj-41c17ad4c73b8f6b4e3164f90ca2ddd7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

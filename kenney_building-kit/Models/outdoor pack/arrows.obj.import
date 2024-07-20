@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dyt1no1mgvm15"
+path="res://.godot/imported/arrows.obj-1ae1a6dce80d55881f81e28bff483508.mesh"
+
+[deps]
+
+files=["res://.godot/imported/arrows.obj-1ae1a6dce80d55881f81e28bff483508.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/arrows.obj"
+dest_files=["res://.godot/imported/arrows.obj-1ae1a6dce80d55881f81e28bff483508.mesh", "res://.godot/imported/arrows.obj-1ae1a6dce80d55881f81e28bff483508.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

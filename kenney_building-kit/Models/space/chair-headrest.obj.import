@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b7l224i1yuroo"
+path="res://.godot/imported/chair-headrest.obj-bb893d1ce396e6dae4e4586a92f23ee7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chair-headrest.obj-bb893d1ce396e6dae4e4586a92f23ee7.mesh"]
+
+source_file="res://kenney_building-kit/Models/space/chair-headrest.obj"
+dest_files=["res://.godot/imported/chair-headrest.obj-bb893d1ce396e6dae4e4586a92f23ee7.mesh", "res://.godot/imported/chair-headrest.obj-bb893d1ce396e6dae4e4586a92f23ee7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

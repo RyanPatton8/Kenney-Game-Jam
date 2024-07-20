@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://1ochfna1kl6j"
+path="res://.godot/imported/wall-door-edge.obj-bb4ee823d943ac741c02e64bc9f573ba.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall-door-edge.obj-bb4ee823d943ac741c02e64bc9f573ba.mesh"]
+
+source_file="res://kenney_building-kit/Models/space/wall-door-edge.obj"
+dest_files=["res://.godot/imported/wall-door-edge.obj-bb4ee823d943ac741c02e64bc9f573ba.mesh", "res://.godot/imported/wall-door-edge.obj-bb4ee823d943ac741c02e64bc9f573ba.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

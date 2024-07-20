@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://damehys1wj7ve"
+path="res://.godot/imported/floor-panel-straight.obj-1d6fae752fcf65019d9f42f91c125f2b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/floor-panel-straight.obj-1d6fae752fcf65019d9f42f91c125f2b.mesh"]
+
+source_file="res://kenney_building-kit/Models/space/floor-panel-straight.obj"
+dest_files=["res://.godot/imported/floor-panel-straight.obj-1d6fae752fcf65019d9f42f91c125f2b.mesh", "res://.godot/imported/floor-panel-straight.obj-1d6fae752fcf65019d9f42f91c125f2b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

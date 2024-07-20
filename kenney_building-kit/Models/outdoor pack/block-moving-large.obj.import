@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7153yhtp6hfq"
+path="res://.godot/imported/block-moving-large.obj-8c5109d6d694fd19277ff1e0c7e07d4b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-moving-large.obj-8c5109d6d694fd19277ff1e0c7e07d4b.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/block-moving-large.obj"
+dest_files=["res://.godot/imported/block-moving-large.obj-8c5109d6d694fd19277ff1e0c7e07d4b.mesh", "res://.godot/imported/block-moving-large.obj-8c5109d6d694fd19277ff1e0c7e07d4b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

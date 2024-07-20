@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dsslorrrt0kfv"
+path="res://.godot/imported/flowers.obj-c171b4f0eb2608426d5f0dcc8d87babc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/flowers.obj-c171b4f0eb2608426d5f0dcc8d87babc.mesh"]
+
+source_file="res://kenney_building-kit/Models/outdoor pack/flowers.obj"
+dest_files=["res://.godot/imported/flowers.obj-c171b4f0eb2608426d5f0dcc8d87babc.mesh", "res://.godot/imported/flowers.obj-c171b4f0eb2608426d5f0dcc8d87babc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

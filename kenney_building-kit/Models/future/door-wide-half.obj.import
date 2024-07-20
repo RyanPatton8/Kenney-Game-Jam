@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dcu276gtg4i8a"
+path="res://.godot/imported/door-wide-half.obj-4bbe263a9bc0a976261f576d91fa6fec.mesh"
+
+[deps]
+
+files=["res://.godot/imported/door-wide-half.obj-4bbe263a9bc0a976261f576d91fa6fec.mesh"]
+
+source_file="res://kenney_building-kit/Models/future/door-wide-half.obj"
+dest_files=["res://.godot/imported/door-wide-half.obj-4bbe263a9bc0a976261f576d91fa6fec.mesh", "res://.godot/imported/door-wide-half.obj-4bbe263a9bc0a976261f576d91fa6fec.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
