@@ -4,7 +4,9 @@
 
 [sub_resource type="BoxMesh" id="BoxMesh_i87jr"]
 
-[node name="Lightning" type="Area3D"]
+[node name="Lightning" type="Area3D" groups=["lightning"]]
+collision_layer = 2
+collision_mask = 0
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
 transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0)

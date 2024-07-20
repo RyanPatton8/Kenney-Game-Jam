@@ -1,6 +1,7 @@
-Node3D
-Node
 Timer
 CollisionShape3D
+Area3D
+Node
+Node3D
 MeshInstance3D
 CharacterBody3D
