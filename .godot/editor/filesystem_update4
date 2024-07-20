@@ -5,3 +5,4 @@ res://Scripts/Characters/Player/lightningArea.cs
 res://Scripts/Characters/Player/bullet.cs
 res://Scripts/Characters/Player/CharacterBody3D.cs
 res://Scripts/Characters/Dummy.cs
+res://Scenes/Characters/enemy/enemy2.gd
