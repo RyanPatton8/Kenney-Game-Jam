@@ -23,8 +23,6 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 
 	[Export] public int maxBulletCount {get; private set;}
 
-	[Export] public Area3D hurtBox {get; private set;}
-
 	private int bulletCount = 0;
 	private bool canShoot = true;
 	private bool canShock = true;
@@ -37,7 +35,6 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 		attackDuration.Timeout += StopAttack;
 		shootCoolDown.Timeout += AllowShoot;
 		shockCoolDown.Timeout += AllowShock;
-		hurtBox.AreaEntered += TakeHit;
 		Input.MouseMode = Input.MouseModeEnum.Captured;
 	}
 
@@ -175,11 +172,4 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 		canShock = true;
 		canShoot = true;
 	}
-
-	private void TakeHit(Area3D area)
-	{
-		GD.Print("Take Damaged");
-	}
 }
-
-

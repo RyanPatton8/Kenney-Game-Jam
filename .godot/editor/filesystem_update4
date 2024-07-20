@@ -7,6 +7,3 @@ res://Scripts/Characters/Player/bullet.cs
 res://Scripts/Characters/Player/CharacterBody3D.cs
 res://Scripts/Characters/Player/lightningArea.cs
 res://Scenes/Characters/Player/bullet.tscn
-res://Scenes/Characters/enemy/enemy2.gd
-res://Scenes/Characters/Player/lightning.tscn
-res://Scenes/Characters/enemy/HandleEnemyHits.cs
