@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://0k32mhub25eh"
+path="res://.godot/imported/aid-crutch.obj-5f28ed98cd7ddf307c563e139d721675.mesh"
+
+[deps]
+
+files=["res://.godot/imported/aid-crutch.obj-5f28ed98cd7ddf307c563e139d721675.mesh"]
+
+source_file="res://kenney_building-kit/Models/charactermodels/aid-crutch.obj"
+dest_files=["res://.godot/imported/aid-crutch.obj-5f28ed98cd7ddf307c563e139d721675.mesh", "res://.godot/imported/aid-crutch.obj-5f28ed98cd7ddf307c563e139d721675.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

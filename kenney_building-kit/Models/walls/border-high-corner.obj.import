@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://h6lddefu1spq"
+path="res://.godot/imported/border-high-corner.obj-91fb9f4554763852c72383bd720b1dda.mesh"
+
+[deps]
+
+files=["res://.godot/imported/border-high-corner.obj-91fb9f4554763852c72383bd720b1dda.mesh"]
+
+source_file="res://kenney_building-kit/Models/walls/border-high-corner.obj"
+dest_files=["res://.godot/imported/border-high-corner.obj-91fb9f4554763852c72383bd720b1dda.mesh", "res://.godot/imported/border-high-corner.obj-91fb9f4554763852c72383bd720b1dda.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
