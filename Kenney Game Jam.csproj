@@ -6,7 +6,4 @@
     <EnableDynamicLoading>true</EnableDynamicLoading>
     <RootNamespace>KenneyGameJam</RootNamespace>
   </PropertyGroup>
-  <ItemGroup>
-    <PackageReference Include="Godot.NET.Sdk" Version="4.2.2" />
-  </ItemGroup>
 </Project>
