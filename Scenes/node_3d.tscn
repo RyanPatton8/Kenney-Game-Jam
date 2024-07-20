@@ -159,7 +159,7 @@ mesh = ExtResource("18_x7fkg")
 [node name="SpotLight3D" type="SpotLight3D" parent="lights parent"]
 transform = Transform3D(1, 0, 0, 0, -0.00127403, 0.999999, 0, -0.999999, -0.00127403, 6.31947, 25.9178, 7.08229)
 light_color = Color(0.541683, 0.37441, 0.0367196, 1)
-light_energy = 1.373
+light_energy = 1.929
 light_indirect_energy = 5.606
 light_volumetric_fog_energy = 8.847
 light_size = 0.658
@@ -173,7 +173,7 @@ environment = SubResource("Environment_h407h")
 
 [node name="SpotLight3D2" type="SpotLight3D" parent="lights parent"]
 transform = Transform3D(1, 0, 0, 0, -0.00127403, 0.999999, 0, -0.999999, -0.00127403, 6.31947, 25.9178, 7.08229)
-light_energy = 1.474
+light_energy = 0.363
 light_indirect_energy = 2.939
 light_volumetric_fog_energy = 1.17
 light_size = 0.148
