@@ -1,6 +1,5 @@
-res://Scenes/Characters/enemy
-res://Scenes/Characters
+res://Scripts/Characters/Player
+res://Scenes/Characters/Player
 res://Scripts
 res://Scenes
 res://Scenes/Deathscreen
-res://Scenes/Characters/Player

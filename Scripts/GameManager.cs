@@ -3,6 +3,7 @@ using System;
 
 public partial class GameManager : Node
 {
+	[Signal] public delegate void ScoreUpdatedEventHandler();
 	private static GameManager _instance;
 
     public static GameManager Instance
@@ -35,10 +36,12 @@ public partial class GameManager : Node
 	public void IncreaseScore()
 	{
 		score++;
+		EmitSignal(nameof(ScoreUpdated));
 	}
 
 	public void ResetScore()
 	{
 		score = 0;
+		EmitSignal(nameof(ScoreUpdated));
 	}
 }
