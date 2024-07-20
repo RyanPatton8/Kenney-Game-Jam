@@ -7,6 +7,7 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	public const float Speed = 5f;
 	public const float JumpVelocity = 4.5f;
 	private List<RigidBody3D> bullets = new List<RigidBody3D>();
+	private List<Area3D> lightningBolts = new List<Area3D>();
 
 	[Export] public float MouseSensitivity = 0.1f;
 	[Export] public float MoveSpeed = 5.0f;
@@ -14,15 +15,20 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	[Export] public Camera3D camera  {get; private set;}
 
 	[Export] public Marker3D attackPos {get; private set;}
+	[Export] public Node bulletPouch {get; private set;}
 
 	[Export] public PackedScene bullet {get; private set;}
 	[Export] public PackedScene lightning {get; private set;}
+
+	[Export] public Timer attackDuration {get; private set;}
+
 
 	// Get the gravity from the project settings to be synced with RigidBody nodes.
 	public float gravity = ProjectSettings.GetSetting("physics/3d/default_gravity").AsSingle();
 
 	public override void _Ready()
 	{
+		attackDuration.Timeout += StopAttack;
 		Input.MouseMode = Input.MouseModeEnum.Captured;
 	}
 
@@ -107,6 +113,8 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 			//Instantiate Lightning
 			GD.Print(bullets.Count);
 			Area3D instance = (Area3D)lightning.Instantiate();
+			lightningBolts.Add(instance);
+
 			GetTree().Root.AddChild(instance);
 			//Calculate MidPoint between bullets
 			Vector3 midPoint = (bullets[i].GlobalPosition + bullets[i+1].GlobalPosition) / 2;
@@ -122,5 +130,23 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 			mesh.Scale = collisionShape.Scale;
 			instance.LookAt(bullets[i+1].GlobalPosition, Vector3.Up);
 		}
+
+		attackDuration.Start();
+	}
+
+	private void StopAttack()
+	{
+		GD.Print("Deleting");
+		foreach(RigidBody3D bullet in bullets)
+		{
+			bullet.QueueFree();	
+		}
+		foreach(Area3D lightning in lightningBolts)
+		{
+			lightning.QueueFree();	
+		}
+		
+		bullets.Clear();
+		lightningBolts.Clear();
 	}
 }

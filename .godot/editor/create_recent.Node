@@ -1,6 +1,9 @@
 NavigationRegion3D
 NavigationAgent3D
 VisibleOnScreenNotifier3D
+Node
+Timer
+Node3D
 CollisionShape3D
 MeshInstance3D
 Node3D
