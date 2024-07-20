@@ -4,7 +4,7 @@ using System.Net.Http;
 
 public partial class CharacterBody3D : Godot.CharacterBody3D
 {
-	public const float Speed = 10.0f;
+	public const float Speed = 5f;
 	public const float JumpVelocity = 4.5f;
 
 	[Export] public float MouseSensitivity = 0.1f;
@@ -21,6 +21,11 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
     }
 
     public override void _PhysicsProcess(double delta)
+	{
+		Move(delta);
+	}
+
+	public void Move(double delta)
 	{
 		Vector3 velocity = Velocity;
 
