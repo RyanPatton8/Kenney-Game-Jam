@@ -163,7 +163,8 @@ public partial class CharacterBody3D : Godot.CharacterBody3D
 	{
 		foreach(RigidBody3D bullet in bullets)
 		{
-			bullet.QueueFree();	
+			if(IsInstanceValid(bullet))
+				bullet.QueueFree();	
 		}
 		foreach(Area3D lightning in lightningBolts)
 		{
