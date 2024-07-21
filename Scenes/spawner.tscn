@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://d24554rdokt4t"]
+
+[ext_resource type="Script" path="res://Spawner.cs" id="1_m8iov"]
+[ext_resource type="PackedScene" uid="uid://cjj6hkugckq48" path="res://Scenes/Characters/enemy/enemy2.tscn" id="2_3pndd"]
+
+[node name="Spawner" type="Node" node_paths=PackedStringArray("spawnTimer", "spawnPoints")]
+script = ExtResource("1_m8iov")
+enemy = ExtResource("2_3pndd")
+spawnTimer = NodePath("SpawnTimer")
+spawnPoints = [null, null, null, null, null]
+
+[node name="SpawnTimer" type="Timer" parent="."]
+wait_time = 3.0
+autostart = true
